@@ -1,4 +1,4 @@
-# Honey, I Shrunk the Language Model: Impact of Knowledge Distillation Methods on Performance and Explainability
+# Impact of Knowledge Distillation Methods on Performance and Explainability
 
 ## Authors
 
