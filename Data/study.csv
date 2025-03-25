@@ -1,0 +1,1115 @@
+CASE,rationale,Completeness,Contrastiveness,Plausibility,Satisfaction,Understandability,rationale_id,model,rationale_length,gender,age,country,education,employement
+214,RE08,3,2,4,5,5,322,MT:PosRationales,155,female,25 to 29 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+214,RE09,5,2,4,4,5,131,CF:PosRationales,167,female,25 to 29 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+214,RE10,4,2,4,4,4,118,MT+CF:PosRationales,167,female,25 to 29 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+214,RE11,4,2,5,4,5,219,MT+CF:RevRationales,314,female,25 to 29 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+214,RE12,5,2,5,5,5,277,MT+CF:RevRationales,263,female,25 to 29 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+214,RE13,5,5,5,5,5,372,MT+CF:RevRationales,446,female,25 to 29 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+214,RE14,4,3,5,5,5,235,MT:PosRationales,203,female,25 to 29 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+214,RE15,5,2,5,4,5,281,MT:PosRationales,255,female,25 to 29 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+214,RE16,4,2,4,4,5,21,CF:PosRationales,182,female,25 to 29 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+214,RE17,2,2,4,4,5,202,CF:PosRationales,338,female,25 to 29 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+214,RE18,2,2,4,4,4,50,MT+CF:PosRationales,310,female,25 to 29 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+214,RE19,5,4,5,5,5,104,MT+CF:PosRationales,155,female,25 to 29 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+215,RE08,5,2,5,5,5,23,MT:PosRationales,214,male,30 to 34 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+215,RE09,4,2,5,5,5,192,CF:PosRationales,169,male,30 to 34 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+215,RE11,4,5,5,5,5,58,MT+CF:RevRationales,421,male,30 to 34 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+215,RE13,2,1,2,4,4,338,MT+CF:RevRationales,393,male,30 to 34 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+215,RE16,4,4,5,5,5,112,CF:PosRationales,240,male,30 to 34 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+215,RE17,1,2,2,4,4,135,CF:PosRationales,207,male,30 to 34 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+215,RE18,2,1,4,4,5,131,MT+CF:PosRationales,215,male,30 to 34 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+215,RE19,4,4,5,5,5,128,MT+CF:PosRationales,274,male,30 to 34 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+216,RE08,2,2,2,2,4,231,MT:PosRationales,169,male,40 to 44 years old,United States,Other degree,Employee
+216,RE09,4,4,4,4,4,280,CF:PosRationales,212,male,40 to 44 years old,United States,Other degree,Employee
+216,RE10,4,4,4,4,4,171,MT+CF:PosRationales,223,male,40 to 44 years old,United States,Other degree,Employee
+216,RE11,1,1,1,4,1,232,MT+CF:RevRationales,454,male,40 to 44 years old,United States,Other degree,Employee
+216,RE12,4,4,4,4,4,37,MT+CF:RevRationales,431,male,40 to 44 years old,United States,Other degree,Employee
+216,RE14,4,4,4,4,4,269,MT:PosRationales,298,male,40 to 44 years old,United States,Other degree,Employee
+216,RE15,4,4,4,4,4,76,MT:PosRationales,255,male,40 to 44 years old,United States,Other degree,Employee
+216,RE16,2,4,2,4,4,368,CF:PosRationales,157,male,40 to 44 years old,United States,Other degree,Employee
+216,RE17,2,2,2,3,4,184,CF:PosRationales,226,male,40 to 44 years old,United States,Other degree,Employee
+216,RE18,3,4,4,4,4,308,MT+CF:PosRationales,222,male,40 to 44 years old,United States,Other degree,Employee
+216,RE19,2,4,2,4,4,276,MT+CF:PosRationales,250,male,40 to 44 years old,United States,Other degree,Employee
+217,RE08,3,3,4,4,5,140,MT:PosRationales,212,male,65 years or older,United Kingdom,Vocational university/university of applied sciences/university degree,Other
+217,RE09,3,2,4,5,5,170,CF:PosRationales,276,male,65 years or older,United Kingdom,Vocational university/university of applied sciences/university degree,Other
+217,RE10,4,3,5,4,5,383,MT+CF:PosRationales,236,male,65 years or older,United Kingdom,Vocational university/university of applied sciences/university degree,Other
+217,RE11,2,2,3,2,5,45,MT+CF:RevRationales,263,male,65 years or older,United Kingdom,Vocational university/university of applied sciences/university degree,Other
+217,RE12,3,2,4,2,5,195,MT+CF:RevRationales,311,male,65 years or older,United Kingdom,Vocational university/university of applied sciences/university degree,Other
+217,RE13,3,2,5,3,4,308,MT+CF:RevRationales,325,male,65 years or older,United Kingdom,Vocational university/university of applied sciences/university degree,Other
+217,RE14,4,5,5,4,5,114,MT:PosRationales,139,male,65 years or older,United Kingdom,Vocational university/university of applied sciences/university degree,Other
+217,RE15,5,4,5,4,5,367,MT:PosRationales,282,male,65 years or older,United Kingdom,Vocational university/university of applied sciences/university degree,Other
+217,RE16,4,2,5,4,5,84,CF:PosRationales,323,male,65 years or older,United Kingdom,Vocational university/university of applied sciences/university degree,Other
+217,RE17,4,3,5,4,5,90,CF:PosRationales,206,male,65 years or older,United Kingdom,Vocational university/university of applied sciences/university degree,Other
+217,RE18,4,3,5,4,5,220,MT+CF:PosRationales,238,male,65 years or older,United Kingdom,Vocational university/university of applied sciences/university degree,Other
+217,RE19,5,3,5,4,5,183,MT+CF:PosRationales,188,male,65 years or older,United Kingdom,Vocational university/university of applied sciences/university degree,Other
+218,RE08,4,1,4,4,4,257,MT:PosRationales,296,female,50 to 54 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Unemployed/seeking employment
+218,RE09,5,5,5,5,5,45,CF:PosRationales,300,female,50 to 54 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Unemployed/seeking employment
+218,RE10,5,5,5,5,5,14,MT+CF:PosRationales,213,female,50 to 54 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Unemployed/seeking employment
+218,RE11,4,4,5,4,4,178,MT+CF:RevRationales,376,female,50 to 54 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Unemployed/seeking employment
+218,RE12,5,5,5,5,5,93,MT+CF:RevRationales,243,female,50 to 54 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Unemployed/seeking employment
+218,RE13,5,5,5,5,5,55,MT+CF:RevRationales,254,female,50 to 54 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Unemployed/seeking employment
+218,RE14,5,3,5,5,5,151,MT:PosRationales,220,female,50 to 54 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Unemployed/seeking employment
+218,RE15,5,5,5,5,5,94,MT:PosRationales,166,female,50 to 54 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Unemployed/seeking employment
+218,RE16,5,5,5,5,5,356,CF:PosRationales,417,female,50 to 54 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Unemployed/seeking employment
+218,RE17,5,5,5,5,5,93,CF:PosRationales,145,female,50 to 54 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Unemployed/seeking employment
+218,RE18,4,4,4,4,5,155,MT+CF:PosRationales,292,female,50 to 54 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Unemployed/seeking employment
+218,RE19,5,5,5,5,5,18,MT+CF:PosRationales,216,female,50 to 54 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Unemployed/seeking employment
+219,RE08,3,2,4,4,5,173,MT:PosRationales,260,female,30 to 34 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+219,RE09,4,5,5,4,5,119,CF:PosRationales,308,female,30 to 34 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+219,RE10,4,4,4,4,5,189,MT+CF:PosRationales,131,female,30 to 34 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+219,RE11,4,4,5,4,5,152,MT+CF:RevRationales,346,female,30 to 34 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+219,RE12,5,5,5,5,5,149,MT+CF:RevRationales,462,female,30 to 34 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+219,RE13,5,5,5,5,5,209,MT+CF:RevRationales,568,female,30 to 34 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+219,RE14,3,2,5,5,5,204,MT:PosRationales,203,female,30 to 34 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+219,RE15,4,2,5,4,5,291,MT:PosRationales,232,female,30 to 34 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+219,RE16,4,5,5,5,5,322,CF:PosRationales,230,female,30 to 34 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+219,RE17,3,4,4,3,4,197,CF:PosRationales,192,female,30 to 34 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+219,RE18,5,4,5,5,5,349,MT+CF:PosRationales,228,female,30 to 34 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+219,RE19,4,4,5,4,5,78,MT+CF:PosRationales,157,female,30 to 34 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+220,RE08,3,5,4,4,4,293,MT:PosRationales,209,female,40 to 44 years old,United Kingdom,Other degree,Civil servant
+220,RE10,5,5,5,5,5,372,MT+CF:PosRationales,194,female,40 to 44 years old,United Kingdom,Other degree,Civil servant
+220,RE11,5,5,5,5,5,81,MT+CF:RevRationales,279,female,40 to 44 years old,United Kingdom,Other degree,Civil servant
+220,RE12,2,5,3,2,4,270,MT+CF:RevRationales,491,female,40 to 44 years old,United Kingdom,Other degree,Civil servant
+220,RE13,4,4,4,4,4,49,MT+CF:RevRationales,265,female,40 to 44 years old,United Kingdom,Other degree,Civil servant
+220,RE14,4,4,5,4,5,277,MT:PosRationales,215,female,40 to 44 years old,United Kingdom,Other degree,Civil servant
+220,RE15,5,5,5,5,5,97,MT:PosRationales,175,female,40 to 44 years old,United Kingdom,Other degree,Civil servant
+220,RE16,5,5,5,5,5,165,CF:PosRationales,170,female,40 to 44 years old,United Kingdom,Other degree,Civil servant
+220,RE19,5,5,5,5,5,255,MT+CF:PosRationales,290,female,40 to 44 years old,United Kingdom,Other degree,Civil servant
+221,RE08,5,5,5,5,5,369,MT:PosRationales,177,male,45 to 49 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Employee
+221,RE09,4,4,4,4,5,157,CF:PosRationales,355,male,45 to 49 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Employee
+221,RE10,4,5,4,4,4,41,MT+CF:PosRationales,108,male,45 to 49 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Employee
+221,RE11,3,3,3,3,3,145,MT+CF:RevRationales,538,male,45 to 49 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Employee
+221,RE12,5,5,5,5,5,230,MT+CF:RevRationales,241,male,45 to 49 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Employee
+221,RE13,4,4,4,4,4,272,MT+CF:RevRationales,477,male,45 to 49 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Employee
+221,RE14,5,5,5,5,5,326,MT:PosRationales,155,male,45 to 49 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Employee
+221,RE15,4,5,3,5,5,108,MT:PosRationales,241,male,45 to 49 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Employee
+221,RE16,3,3,3,4,4,27,CF:PosRationales,259,male,45 to 49 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Employee
+221,RE17,5,5,5,5,5,363,CF:PosRationales,325,male,45 to 49 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Employee
+221,RE18,4,4,4,4,3,302,MT+CF:PosRationales,234,male,45 to 49 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Employee
+221,RE19,4,4,4,5,4,368,MT+CF:PosRationales,158,male,45 to 49 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Employee
+222,RE09,4,2,4,4,4,4,CF:PosRationales,169,female,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+222,RE10,5,2,5,5,5,38,MT+CF:PosRationales,187,female,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+222,RE11,4,2,4,3,4,119,MT+CF:RevRationales,296,female,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+222,RE14,5,2,5,5,5,195,MT:PosRationales,290,female,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+222,RE15,5,2,5,3,4,248,MT:PosRationales,155,female,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+222,RE17,4,5,5,3,5,9,CF:PosRationales,280,female,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+223,RE09,3,1,3,1,5,133,CF:PosRationales,317,female,15 to 19 years old,United States,Still in school,Pupil/in school
+223,RE10,5,1,5,5,5,203,MT+CF:PosRationales,156,female,15 to 19 years old,United States,Still in school,Pupil/in school
+223,RE12,1,4,1,1,2,299,MT+CF:RevRationales,441,female,15 to 19 years old,United States,Still in school,Pupil/in school
+223,RE13,2,5,2,2,3,117,MT+CF:RevRationales,577,female,15 to 19 years old,United States,Still in school,Pupil/in school
+223,RE15,5,1,5,5,5,364,MT:PosRationales,196,female,15 to 19 years old,United States,Still in school,Pupil/in school
+223,RE16,5,1,5,4,5,246,CF:PosRationales,151,female,15 to 19 years old,United States,Still in school,Pupil/in school
+223,RE17,1,1,1,1,2,178,CF:PosRationales,319,female,15 to 19 years old,United States,Still in school,Pupil/in school
+223,RE18,4,1,4,2,4,188,MT+CF:PosRationales,133,female,15 to 19 years old,United States,Still in school,Pupil/in school
+223,RE19,5,1,5,5,5,5,MT+CF:PosRationales,175,female,15 to 19 years old,United States,Still in school,Pupil/in school
+224,RE08,4,4,4,4,4,284,MT:PosRationales,236,male,30 to 34 years old,No answer,Vocational university/university of applied sciences/university degree,University student
+224,RE09,5,5,4,4,5,234,CF:PosRationales,191,male,30 to 34 years old,No answer,Vocational university/university of applied sciences/university degree,University student
+224,RE10,5,5,5,4,4,339,MT+CF:PosRationales,152,male,30 to 34 years old,No answer,Vocational university/university of applied sciences/university degree,University student
+224,RE11,5,4,5,4,5,242,MT+CF:RevRationales,338,male,30 to 34 years old,No answer,Vocational university/university of applied sciences/university degree,University student
+224,RE13,5,5,5,4,5,96,MT+CF:RevRationales,999,male,30 to 34 years old,No answer,Vocational university/university of applied sciences/university degree,University student
+224,RE14,4,5,4,4,4,39,MT:PosRationales,136,male,30 to 34 years old,No answer,Vocational university/university of applied sciences/university degree,University student
+224,RE15,4,5,5,4,5,144,MT:PosRationales,322,male,30 to 34 years old,No answer,Vocational university/university of applied sciences/university degree,University student
+224,RE16,5,5,4,4,4,69,CF:PosRationales,326,male,30 to 34 years old,No answer,Vocational university/university of applied sciences/university degree,University student
+224,RE17,4,4,4,5,4,321,CF:PosRationales,176,male,30 to 34 years old,No answer,Vocational university/university of applied sciences/university degree,University student
+224,RE19,4,5,5,4,4,335,MT+CF:PosRationales,126,male,30 to 34 years old,No answer,Vocational university/university of applied sciences/university degree,University student
+225,RE08,4,4,4,4,4,12,MT:PosRationales,215,female,30 to 34 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+225,RE09,4,5,4,4,4,106,CF:PosRationales,145,female,30 to 34 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+225,RE10,4,5,4,5,4,64,MT+CF:PosRationales,171,female,30 to 34 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+225,RE11,3,4,3,3,3,217,MT+CF:RevRationales,1279,female,30 to 34 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+225,RE12,4,4,4,4,4,236,MT+CF:RevRationales,647,female,30 to 34 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+225,RE13,4,4,4,4,5,139,MT+CF:RevRationales,468,female,30 to 34 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+225,RE14,4,5,4,4,4,9,MT:PosRationales,306,female,30 to 34 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+225,RE15,3,4,2,3,4,41,MT:PosRationales,149,female,30 to 34 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+225,RE16,4,4,3,3,4,32,CF:PosRationales,358,female,30 to 34 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+225,RE17,4,5,4,4,4,284,CF:PosRationales,260,female,30 to 34 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+225,RE18,4,5,4,3,5,69,MT+CF:PosRationales,298,female,30 to 34 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+225,RE19,4,5,4,3,4,278,MT+CF:PosRationales,249,female,30 to 34 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+226,RE09,4,2,4,3,4,117,CF:PosRationales,267,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+226,RE10,4,2,4,4,4,160,MT+CF:PosRationales,193,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+226,RE15,2,1,1,1,4,355,MT:PosRationales,284,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+226,RE16,4,3,4,4,4,331,CF:PosRationales,279,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+227,RE08,4,1,5,2,5,218,MT:PosRationales,194,female,25 to 29 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Self-employed
+227,RE09,5,1,5,5,5,164,CF:PosRationales,241,female,25 to 29 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Self-employed
+227,RE10,4,1,5,4,5,201,MT+CF:PosRationales,291,female,25 to 29 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Self-employed
+227,RE11,2,1,1,1,5,21,MT+CF:RevRationales,301,female,25 to 29 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Self-employed
+227,RE12,5,1,5,2,5,373,MT+CF:RevRationales,504,female,25 to 29 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Self-employed
+227,RE13,2,1,4,2,5,374,MT+CF:RevRationales,354,female,25 to 29 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Self-employed
+227,RE14,5,5,5,4,5,128,MT:PosRationales,321,female,25 to 29 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Self-employed
+227,RE15,5,1,5,5,5,3,MT:PosRationales,165,female,25 to 29 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Self-employed
+227,RE16,3,1,4,2,5,173,CF:PosRationales,252,female,25 to 29 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Self-employed
+227,RE17,2,1,1,1,4,272,CF:PosRationales,316,female,25 to 29 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Self-employed
+227,RE18,5,1,5,5,5,230,MT+CF:PosRationales,214,female,25 to 29 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Self-employed
+227,RE19,5,1,5,5,5,219,MT+CF:PosRationales,205,female,25 to 29 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Self-employed
+228,RE08,4,5,4,4,4,307,MT:PosRationales,169,female,60 to 64 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Civil servant
+228,RE09,4,4,4,5,4,102,CF:PosRationales,155,female,60 to 64 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Civil servant
+228,RE10,4,4,4,5,4,56,MT+CF:PosRationales,327,female,60 to 64 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Civil servant
+228,RE11,4,4,4,4,4,300,MT+CF:RevRationales,369,female,60 to 64 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Civil servant
+228,RE12,4,5,4,4,4,60,MT+CF:RevRationales,339,female,60 to 64 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Civil servant
+228,RE13,4,4,4,4,4,194,MT+CF:RevRationales,270,female,60 to 64 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Civil servant
+228,RE14,4,4,4,4,4,200,MT:PosRationales,220,female,60 to 64 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Civil servant
+228,RE15,4,4,4,4,4,102,MT:PosRationales,215,female,60 to 64 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Civil servant
+228,RE16,4,4,4,4,4,300,CF:PosRationales,217,female,60 to 64 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Civil servant
+228,RE17,4,4,4,4,4,374,CF:PosRationales,252,female,60 to 64 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Civil servant
+228,RE18,4,4,4,4,4,193,MT+CF:PosRationales,140,female,60 to 64 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Civil servant
+228,RE19,4,4,4,4,5,366,MT+CF:PosRationales,289,female,60 to 64 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Civil servant
+229,RE10,5,5,5,5,5,177,MT+CF:PosRationales,296,male,25 to 29 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+229,RE11,4,5,3,4,4,66,MT+CF:RevRationales,628,male,25 to 29 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+229,RE12,5,5,2,5,5,351,MT+CF:RevRationales,367,male,25 to 29 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+229,RE13,3,4,2,3,4,118,MT+CF:RevRationales,413,male,25 to 29 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+229,RE14,4,5,5,2,5,122,MT:PosRationales,256,male,25 to 29 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+229,RE15,5,5,5,5,5,133,MT:PosRationales,149,male,25 to 29 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+229,RE17,5,5,5,5,5,161,CF:PosRationales,255,male,25 to 29 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+230,RE08,5,4,5,5,5,187,MT:PosRationales,258,male,25 to 29 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Civil servant
+230,RE09,5,4,5,5,5,222,CF:PosRationales,181,male,25 to 29 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Civil servant
+230,RE10,5,4,5,5,5,296,MT+CF:PosRationales,186,male,25 to 29 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Civil servant
+230,RE11,5,4,5,5,5,124,MT+CF:RevRationales,337,male,25 to 29 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Civil servant
+230,RE12,5,2,5,5,5,14,MT+CF:RevRationales,274,male,25 to 29 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Civil servant
+230,RE13,5,4,5,5,5,161,MT+CF:RevRationales,483,male,25 to 29 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Civil servant
+230,RE14,5,4,5,5,5,278,MT:PosRationales,282,male,25 to 29 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Civil servant
+230,RE15,5,4,5,5,5,254,MT:PosRationales,171,male,25 to 29 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Civil servant
+230,RE16,4,4,4,4,5,65,CF:PosRationales,216,male,25 to 29 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Civil servant
+230,RE17,5,4,5,5,5,290,CF:PosRationales,211,male,25 to 29 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Civil servant
+230,RE18,5,5,5,5,5,36,MT+CF:PosRationales,137,male,25 to 29 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Civil servant
+230,RE19,5,5,5,5,5,212,MT+CF:PosRationales,171,male,25 to 29 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Civil servant
+231,RE08,5,4,5,5,5,129,MT:PosRationales,247,female,50 to 54 years old,United Kingdom,Other degree,Other
+231,RE09,3,3,3,3,4,349,CF:PosRationales,298,female,50 to 54 years old,United Kingdom,Other degree,Other
+231,RE10,3,4,4,4,5,238,MT+CF:PosRationales,225,female,50 to 54 years old,United Kingdom,Other degree,Other
+231,RE11,5,4,4,5,5,235,MT+CF:RevRationales,533,female,50 to 54 years old,United Kingdom,Other degree,Other
+231,RE12,5,4,5,5,5,278,MT+CF:RevRationales,355,female,50 to 54 years old,United Kingdom,Other degree,Other
+231,RE13,5,4,4,4,5,259,MT+CF:RevRationales,266,female,50 to 54 years old,United Kingdom,Other degree,Other
+231,RE14,4,4,4,4,4,71,MT:PosRationales,190,female,50 to 54 years old,United Kingdom,Other degree,Other
+231,RE15,5,4,5,5,5,299,MT:PosRationales,198,female,50 to 54 years old,United Kingdom,Other degree,Other
+231,RE16,4,4,5,4,5,60,CF:PosRationales,209,female,50 to 54 years old,United Kingdom,Other degree,Other
+231,RE17,4,4,4,4,5,358,CF:PosRationales,278,female,50 to 54 years old,United Kingdom,Other degree,Other
+231,RE18,4,4,4,5,5,299,MT+CF:PosRationales,264,female,50 to 54 years old,United Kingdom,Other degree,Other
+231,RE19,5,5,5,5,5,361,MT+CF:PosRationales,210,female,50 to 54 years old,United Kingdom,Other degree,Other
+232,RE08,4,1,5,5,5,294,MT:PosRationales,161,female,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+232,RE09,2,1,5,4,5,301,CF:PosRationales,149,female,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+232,RE10,2,1,2,2,4,346,MT+CF:PosRationales,270,female,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+232,RE11,5,5,5,5,5,34,MT+CF:RevRationales,479,female,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+232,RE12,2,1,5,5,5,333,MT+CF:RevRationales,213,female,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+232,RE13,2,1,5,5,5,147,MT+CF:RevRationales,310,female,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+232,RE14,4,1,5,5,5,154,MT:PosRationales,328,female,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+232,RE15,2,2,4,4,5,372,MT:PosRationales,278,female,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+232,RE16,1,1,5,4,4,7,CF:PosRationales,232,female,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+232,RE17,5,1,5,5,5,242,CF:PosRationales,257,female,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+232,RE18,2,1,4,2,5,274,MT+CF:PosRationales,216,female,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+233,RE08,2,4,3,2,3,80,MT:PosRationales,306,male,20 to 24 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Pupil/in school
+233,RE10,4,4,3,4,4,186,MT+CF:PosRationales,191,male,20 to 24 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Pupil/in school
+233,RE11,2,4,3,3,3,188,MT+CF:RevRationales,438,male,20 to 24 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Pupil/in school
+233,RE13,5,5,4,4,5,200,MT+CF:RevRationales,282,male,20 to 24 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Pupil/in school
+233,RE14,4,3,2,3,4,379,MT:PosRationales,178,male,20 to 24 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Pupil/in school
+233,RE19,4,4,3,4,4,317,MT+CF:PosRationales,237,male,20 to 24 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Pupil/in school
+234,RE08,5,5,5,4,5,98,MT:PosRationales,210,male,60 to 64 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Civil servant
+234,RE09,3,3,4,3,5,123,CF:PosRationales,243,male,60 to 64 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Civil servant
+234,RE10,2,3,2,2,3,344,MT+CF:PosRationales,265,male,60 to 64 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Civil servant
+234,RE11,5,5,5,4,5,370,MT+CF:RevRationales,297,male,60 to 64 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Civil servant
+234,RE12,5,5,5,5,5,174,MT+CF:RevRationales,370,male,60 to 64 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Civil servant
+234,RE13,3,5,4,3,2,337,MT+CF:RevRationales,485,male,60 to 64 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Civil servant
+234,RE14,3,5,3,4,5,33,MT:PosRationales,151,male,60 to 64 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Civil servant
+234,RE15,5,5,5,5,5,274,MT:PosRationales,213,male,60 to 64 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Civil servant
+234,RE16,5,5,5,3,5,348,CF:PosRationales,276,male,60 to 64 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Civil servant
+234,RE17,2,2,3,2,5,98,CF:PosRationales,204,male,60 to 64 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Civil servant
+234,RE18,5,5,5,5,5,291,MT+CF:PosRationales,143,male,60 to 64 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Civil servant
+234,RE19,5,5,5,5,5,85,MT+CF:PosRationales,238,male,60 to 64 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Civil servant
+235,RE08,5,3,5,5,5,353,MT:PosRationales,164,female,30 to 34 years old,United Kingdom,Finished school with no qualifications,Unemployed/seeking employment
+235,RE09,5,4,5,5,5,38,CF:PosRationales,281,female,30 to 34 years old,United Kingdom,Finished school with no qualifications,Unemployed/seeking employment
+235,RE10,4,3,5,5,5,97,MT+CF:PosRationales,294,female,30 to 34 years old,United Kingdom,Finished school with no qualifications,Unemployed/seeking employment
+235,RE11,5,5,5,5,5,74,MT+CF:RevRationales,244,female,30 to 34 years old,United Kingdom,Finished school with no qualifications,Unemployed/seeking employment
+235,RE12,5,5,5,5,5,249,MT+CF:RevRationales,235,female,30 to 34 years old,United Kingdom,Finished school with no qualifications,Unemployed/seeking employment
+235,RE13,5,5,5,5,5,31,MT+CF:RevRationales,439,female,30 to 34 years old,United Kingdom,Finished school with no qualifications,Unemployed/seeking employment
+235,RE14,5,5,5,5,5,24,MT:PosRationales,160,female,30 to 34 years old,United Kingdom,Finished school with no qualifications,Unemployed/seeking employment
+235,RE15,5,5,5,5,5,202,MT:PosRationales,206,female,30 to 34 years old,United Kingdom,Finished school with no qualifications,Unemployed/seeking employment
+235,RE16,5,5,5,5,5,275,CF:PosRationales,239,female,30 to 34 years old,United Kingdom,Finished school with no qualifications,Unemployed/seeking employment
+235,RE17,5,5,5,5,4,310,CF:PosRationales,289,female,30 to 34 years old,United Kingdom,Finished school with no qualifications,Unemployed/seeking employment
+235,RE18,5,4,5,5,5,116,MT+CF:PosRationales,288,female,30 to 34 years old,United Kingdom,Finished school with no qualifications,Unemployed/seeking employment
+235,RE19,5,5,5,5,5,147,MT+CF:PosRationales,286,female,30 to 34 years old,United Kingdom,Finished school with no qualifications,Unemployed/seeking employment
+236,RE08,2,1,3,2,5,240,MT:PosRationales,203,female,35 to 39 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+236,RE09,3,2,4,4,5,350,CF:PosRationales,205,female,35 to 39 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+236,RE10,3,1,3,2,5,129,MT+CF:PosRationales,281,female,35 to 39 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+236,RE12,4,1,4,3,5,313,MT+CF:RevRationales,277,female,35 to 39 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+236,RE13,3,1,2,1,4,266,MT+CF:RevRationales,337,female,35 to 39 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+236,RE14,2,1,3,2,5,266,MT:PosRationales,191,female,35 to 39 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+236,RE16,2,1,1,1,2,54,CF:PosRationales,332,female,35 to 39 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+236,RE17,3,1,4,2,5,329,CF:PosRationales,308,female,35 to 39 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+236,RE18,3,1,2,1,4,285,MT+CF:PosRationales,207,female,35 to 39 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+236,RE19,2,1,3,2,5,29,MT+CF:PosRationales,313,female,35 to 39 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+237,RE08,5,5,5,5,5,220,MT:PosRationales,274,male,55 to 59 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Unemployed/seeking employment
+237,RE09,5,5,5,5,5,267,CF:PosRationales,225,male,55 to 59 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Unemployed/seeking employment
+237,RE10,5,5,5,5,5,254,MT+CF:PosRationales,354,male,55 to 59 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Unemployed/seeking employment
+237,RE11,5,5,5,5,5,357,MT+CF:RevRationales,262,male,55 to 59 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Unemployed/seeking employment
+237,RE12,5,5,5,5,5,326,MT+CF:RevRationales,296,male,55 to 59 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Unemployed/seeking employment
+237,RE13,5,5,5,5,5,325,MT+CF:RevRationales,302,male,55 to 59 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Unemployed/seeking employment
+237,RE14,3,4,4,4,5,74,MT:PosRationales,294,male,55 to 59 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Unemployed/seeking employment
+237,RE15,5,4,4,4,5,7,MT:PosRationales,181,male,55 to 59 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Unemployed/seeking employment
+237,RE16,5,5,5,5,5,257,CF:PosRationales,289,male,55 to 59 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Unemployed/seeking employment
+237,RE17,5,4,5,5,4,114,CF:PosRationales,157,male,55 to 59 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Unemployed/seeking employment
+237,RE18,5,5,5,5,5,256,MT+CF:PosRationales,214,male,55 to 59 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Unemployed/seeking employment
+237,RE19,5,5,5,5,5,35,MT+CF:PosRationales,193,male,55 to 59 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Unemployed/seeking employment
+238,RE08,2,4,2,2,4,160,MT:PosRationales,296,female,40 to 44 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Unemployed/seeking employment
+238,RE09,2,4,2,2,5,381,CF:PosRationales,156,female,40 to 44 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Unemployed/seeking employment
+238,RE10,2,4,3,2,5,21,MT+CF:PosRationales,178,female,40 to 44 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Unemployed/seeking employment
+238,RE14,5,5,5,5,5,185,MT:PosRationales,335,female,40 to 44 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Unemployed/seeking employment
+238,RE15,4,2,4,4,5,252,MT:PosRationales,133,female,40 to 44 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Unemployed/seeking employment
+238,RE18,4,5,4,3,5,263,MT+CF:PosRationales,159,female,40 to 44 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Unemployed/seeking employment
+239,RE08,4,4,4,4,4,87,MT:PosRationales,154,female,35 to 39 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Self-employed
+239,RE09,4,4,4,4,4,79,CF:PosRationales,265,female,35 to 39 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Self-employed
+239,RE11,1,1,2,1,4,25,MT+CF:RevRationales,387,female,35 to 39 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Self-employed
+239,RE14,2,5,4,2,5,162,MT:PosRationales,141,female,35 to 39 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Self-employed
+239,RE17,2,2,2,2,2,132,CF:PosRationales,263,female,35 to 39 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Self-employed
+239,RE18,4,3,4,4,5,168,MT+CF:PosRationales,213,female,35 to 39 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Self-employed
+239,RE19,1,4,3,1,4,324,MT+CF:PosRationales,239,female,35 to 39 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Self-employed
+240,RE09,4,2,4,4,5,151,CF:PosRationales,353,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+240,RE10,5,5,5,5,5,163,MT+CF:PosRationales,162,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+240,RE11,5,5,5,5,5,350,MT+CF:RevRationales,391,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+240,RE13,5,5,5,5,5,221,MT+CF:RevRationales,617,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+240,RE14,5,2,5,5,5,21,MT:PosRationales,287,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+240,RE15,4,2,5,2,5,188,MT:PosRationales,217,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+240,RE16,5,2,5,4,5,41,CF:PosRationales,253,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+240,RE17,3,2,4,2,5,78,CF:PosRationales,248,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+240,RE18,1,1,1,1,1,172,MT+CF:PosRationales,193,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+240,RE19,3,2,4,4,5,174,MT+CF:PosRationales,156,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+242,RE08,5,3,5,5,5,5,MT:PosRationales,158,female,35 to 39 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+242,RE09,4,5,4,4,4,316,CF:PosRationales,317,female,35 to 39 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+242,RE10,4,4,5,4,4,153,MT+CF:PosRationales,242,female,35 to 39 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+242,RE11,4,5,5,5,5,13,MT+CF:RevRationales,282,female,35 to 39 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+242,RE12,4,4,3,4,3,155,MT+CF:RevRationales,289,female,35 to 39 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+242,RE13,5,5,5,5,5,220,MT+CF:RevRationales,459,female,35 to 39 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+242,RE14,5,4,4,4,4,155,MT:PosRationales,238,female,35 to 39 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+242,RE15,4,4,5,5,4,146,MT:PosRationales,236,female,35 to 39 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+242,RE16,5,4,5,5,5,154,CF:PosRationales,298,female,35 to 39 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+242,RE17,5,5,5,5,4,96,CF:PosRationales,218,female,35 to 39 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+242,RE18,4,4,5,4,5,318,MT+CF:PosRationales,216,female,35 to 39 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+242,RE19,4,3,4,3,3,195,MT+CF:PosRationales,253,female,35 to 39 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+243,RE10,5,2,5,5,5,343,MT+CF:PosRationales,314,male,50 to 54 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+243,RE13,4,3,4,3,4,199,MT+CF:RevRationales,317,male,50 to 54 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+243,RE17,3,4,4,4,4,188,CF:PosRationales,209,male,50 to 54 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+243,RE18,4,3,5,4,5,321,MT+CF:PosRationales,135,male,50 to 54 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+244,RE08,5,5,5,5,5,2,MT:PosRationales,322,female,25 to 29 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Other
+244,RE09,4,3,4,3,5,377,CF:PosRationales,191,female,25 to 29 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Other
+244,RE10,5,5,5,5,5,292,MT+CF:PosRationales,172,female,25 to 29 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Other
+244,RE11,5,5,5,5,5,15,MT+CF:RevRationales,515,female,25 to 29 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Other
+244,RE12,5,5,5,5,5,322,MT+CF:RevRationales,426,female,25 to 29 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Other
+244,RE13,5,5,5,5,5,252,MT+CF:RevRationales,272,female,25 to 29 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Other
+244,RE14,4,5,5,5,5,383,MT:PosRationales,153,female,25 to 29 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Other
+244,RE15,5,5,5,5,5,111,MT:PosRationales,328,female,25 to 29 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Other
+244,RE16,5,5,5,5,5,120,CF:PosRationales,208,female,25 to 29 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Other
+244,RE17,5,5,5,5,5,49,CF:PosRationales,349,female,25 to 29 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Other
+244,RE18,5,5,5,5,5,170,MT+CF:PosRationales,228,female,25 to 29 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Other
+244,RE19,5,5,5,5,5,341,MT+CF:PosRationales,230,female,25 to 29 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Other
+245,RE08,4,4,5,3,4,84,MT:PosRationales,174,male,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Other
+245,RE09,2,2,1,2,3,215,CF:PosRationales,206,male,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Other
+245,RE10,3,4,2,2,3,354,MT+CF:PosRationales,260,male,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Other
+245,RE11,4,4,5,4,4,310,MT+CF:RevRationales,269,male,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Other
+245,RE12,2,4,2,1,4,72,MT+CF:RevRationales,595,male,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Other
+245,RE13,2,2,4,4,4,40,MT+CF:RevRationales,242,male,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Other
+245,RE14,4,4,4,4,4,175,MT:PosRationales,256,male,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Other
+245,RE17,2,2,2,3,4,330,CF:PosRationales,370,male,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Other
+245,RE18,1,2,1,1,2,294,MT+CF:PosRationales,304,male,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Other
+245,RE19,2,2,4,4,4,307,MT+CF:PosRationales,170,male,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Other
+246,RE08,4,4,4,4,4,351,MT:PosRationales,227,male,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+246,RE09,5,5,5,5,5,225,CF:PosRationales,233,male,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+246,RE12,4,4,4,4,4,90,MT+CF:RevRationales,296,male,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+246,RE14,4,4,4,4,4,193,MT:PosRationales,133,male,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+246,RE15,4,4,4,4,4,331,MT:PosRationales,302,male,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+246,RE18,4,4,4,4,4,49,MT+CF:PosRationales,180,male,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+247,RE08,5,5,5,5,5,83,MT:PosRationales,271,male,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+247,RE10,2,3,3,3,2,231,MT+CF:PosRationales,139,male,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+247,RE11,5,5,5,5,5,284,MT+CF:RevRationales,264,male,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+247,RE13,5,5,5,5,5,156,MT+CF:RevRationales,241,male,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+247,RE14,5,4,5,5,5,138,MT:PosRationales,235,male,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+247,RE15,4,3,4,3,4,176,MT:PosRationales,142,male,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+247,RE16,3,3,4,4,4,67,CF:PosRationales,187,male,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+247,RE17,5,4,5,5,5,219,CF:PosRationales,286,male,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+247,RE18,5,4,5,5,4,245,MT+CF:PosRationales,201,male,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+247,RE19,2,2,3,3,4,103,MT+CF:PosRationales,179,male,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+248,RE08,2,1,2,1,4,233,MT:PosRationales,169,female,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+248,RE09,4,2,4,4,4,83,CF:PosRationales,177,female,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+248,RE10,3,3,4,4,4,51,MT+CF:PosRationales,274,female,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+248,RE11,4,4,4,4,4,115,MT+CF:RevRationales,400,female,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+248,RE14,4,2,3,3,4,249,MT:PosRationales,215,female,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+248,RE15,4,3,4,4,4,116,MT:PosRationales,252,female,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+248,RE16,3,2,4,3,4,137,CF:PosRationales,125,female,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+248,RE17,3,2,4,3,4,235,CF:PosRationales,237,female,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+248,RE18,4,2,2,4,4,158,MT+CF:PosRationales,303,female,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+248,RE19,4,4,4,4,4,152,MT+CF:PosRationales,285,female,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+249,RE08,5,5,5,3,5,61,MT:PosRationales,218,male,20 to 24 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+249,RE09,5,5,5,5,5,333,CF:PosRationales,291,male,20 to 24 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+249,RE10,5,5,5,5,5,340,MT+CF:PosRationales,221,male,20 to 24 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+249,RE11,5,5,5,5,5,128,MT+CF:RevRationales,273,male,20 to 24 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+249,RE12,5,5,5,5,5,223,MT+CF:RevRationales,249,male,20 to 24 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+249,RE13,5,5,5,5,5,250,MT+CF:RevRationales,317,male,20 to 24 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+249,RE14,5,5,5,5,5,25,MT:PosRationales,173,male,20 to 24 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+249,RE15,5,5,5,5,5,314,MT:PosRationales,385,male,20 to 24 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+249,RE16,5,5,5,3,5,253,CF:PosRationales,162,male,20 to 24 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+249,RE17,5,5,5,5,5,140,CF:PosRationales,267,male,20 to 24 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+249,RE18,5,5,5,5,5,0,MT+CF:PosRationales,214,male,20 to 24 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+249,RE19,5,5,5,5,5,79,MT+CF:PosRationales,290,male,20 to 24 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+250,RE08,4,4,4,4,4,319,MT:PosRationales,261,male,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+250,RE09,4,4,4,4,4,180,CF:PosRationales,222,male,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+250,RE10,4,4,3,4,4,13,MT+CF:PosRationales,222,male,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+250,RE11,4,4,4,4,4,1,MT+CF:RevRationales,387,male,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+250,RE12,4,4,4,4,4,265,MT+CF:RevRationales,514,male,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+250,RE13,4,4,4,4,4,6,MT+CF:RevRationales,414,male,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+250,RE14,3,4,4,3,4,167,MT:PosRationales,173,male,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+250,RE15,4,3,3,3,3,152,MT:PosRationales,162,male,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+250,RE16,4,4,4,4,4,200,CF:PosRationales,309,male,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+250,RE17,3,4,4,4,4,277,CF:PosRationales,259,male,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+250,RE18,4,4,4,3,4,275,MT+CF:PosRationales,224,male,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+250,RE19,4,4,4,4,4,249,MT+CF:PosRationales,230,male,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+251,RE08,5,5,5,5,5,246,MT:PosRationales,267,male,65 years or older,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Other
+251,RE09,5,5,5,5,5,191,CF:PosRationales,295,male,65 years or older,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Other
+251,RE10,4,4,5,5,5,148,MT+CF:PosRationales,156,male,65 years or older,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Other
+251,RE11,5,5,5,5,5,255,MT+CF:RevRationales,328,male,65 years or older,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Other
+251,RE12,5,5,5,5,5,69,MT+CF:RevRationales,339,male,65 years or older,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Other
+251,RE13,5,4,5,4,5,79,MT+CF:RevRationales,1263,male,65 years or older,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Other
+251,RE14,5,5,5,5,5,292,MT:PosRationales,149,male,65 years or older,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Other
+251,RE15,5,5,5,5,5,20,MT:PosRationales,224,male,65 years or older,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Other
+251,RE16,5,5,5,5,5,130,CF:PosRationales,154,male,65 years or older,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Other
+251,RE18,5,5,5,5,5,137,MT+CF:PosRationales,341,male,65 years or older,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Other
+251,RE19,5,5,5,5,5,381,MT+CF:PosRationales,176,male,65 years or older,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Other
+252,RE08,2,4,4,2,4,317,MT:PosRationales,272,male,35 to 39 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+252,RE09,3,3,4,3,3,351,CF:PosRationales,291,male,35 to 39 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+252,RE10,4,3,5,3,4,280,MT+CF:PosRationales,127,male,35 to 39 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+252,RE11,4,3,4,4,5,148,MT+CF:RevRationales,484,male,35 to 39 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+252,RE12,4,4,4,4,4,43,MT+CF:RevRationales,395,male,35 to 39 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+252,RE13,4,4,5,4,4,251,MT+CF:RevRationales,278,male,35 to 39 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+252,RE15,2,4,4,2,3,45,MT:PosRationales,144,male,35 to 39 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+252,RE16,4,4,4,4,4,141,CF:PosRationales,307,male,35 to 39 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+252,RE17,3,3,4,4,3,355,CF:PosRationales,173,male,35 to 39 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+252,RE19,4,4,4,4,4,357,MT+CF:PosRationales,266,male,35 to 39 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+253,RE09,2,2,2,2,4,89,CF:PosRationales,282,male,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+253,RE10,4,4,5,4,5,334,MT+CF:PosRationales,211,male,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+253,RE11,4,5,5,3,5,341,MT+CF:RevRationales,332,male,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+253,RE16,3,2,5,3,5,139,CF:PosRationales,314,male,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+253,RE17,4,2,4,3,4,313,CF:PosRationales,300,male,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+254,RE08,4,4,4,4,4,147,MT:PosRationales,196,male,65 years or older,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Other
+254,RE09,4,4,3,4,4,73,CF:PosRationales,301,male,65 years or older,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Other
+254,RE10,4,4,4,4,4,244,MT+CF:PosRationales,216,male,65 years or older,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Other
+254,RE11,4,4,4,4,4,237,MT+CF:RevRationales,337,male,65 years or older,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Other
+254,RE12,2,3,2,2,4,182,MT+CF:RevRationales,1042,male,65 years or older,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Other
+254,RE13,4,4,4,4,4,316,MT+CF:RevRationales,324,male,65 years or older,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Other
+254,RE14,4,4,4,4,4,86,MT:PosRationales,297,male,65 years or older,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Other
+254,RE15,4,4,4,4,4,247,MT:PosRationales,230,male,65 years or older,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Other
+254,RE17,4,4,4,4,4,285,CF:PosRationales,246,male,65 years or older,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Other
+254,RE18,4,4,4,4,4,365,MT+CF:PosRationales,145,male,65 years or older,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Other
+254,RE19,2,3,3,2,4,65,MT+CF:PosRationales,205,male,65 years or older,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Other
+255,RE08,4,4,4,4,4,171,MT:PosRationales,205,male,35 to 39 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Employee
+255,RE09,4,4,4,4,4,1,CF:PosRationales,218,male,35 to 39 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Employee
+255,RE10,4,4,4,4,4,173,MT+CF:PosRationales,295,male,35 to 39 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Employee
+255,RE12,4,4,4,4,4,54,MT+CF:RevRationales,336,male,35 to 39 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Employee
+255,RE13,4,4,4,4,4,246,MT+CF:RevRationales,242,male,35 to 39 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Employee
+255,RE14,4,4,4,4,4,345,MT:PosRationales,231,male,35 to 39 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Employee
+255,RE15,4,4,4,4,4,272,MT:PosRationales,302,male,35 to 39 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Employee
+255,RE16,4,5,5,4,5,36,CF:PosRationales,210,male,35 to 39 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Employee
+255,RE17,4,4,4,4,4,150,CF:PosRationales,132,male,35 to 39 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Employee
+255,RE18,5,5,5,5,5,165,MT+CF:PosRationales,251,male,35 to 39 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Employee
+255,RE19,5,5,5,5,5,70,MT+CF:PosRationales,246,male,35 to 39 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Employee
+256,RE08,5,5,5,5,5,214,MT:PosRationales,171,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+256,RE10,5,5,5,5,5,367,MT+CF:PosRationales,152,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+256,RE11,5,5,2,2,4,38,MT+CF:RevRationales,1387,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+256,RE13,2,4,3,2,3,359,MT+CF:RevRationales,260,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+256,RE14,4,4,4,3,4,174,MT:PosRationales,191,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+256,RE15,4,4,4,4,4,312,MT:PosRationales,160,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+256,RE16,5,4,5,5,4,334,CF:PosRationales,325,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+256,RE17,5,5,5,5,5,343,CF:PosRationales,267,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+256,RE18,4,5,4,5,5,267,MT+CF:PosRationales,202,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+256,RE19,5,5,5,5,5,382,MT+CF:PosRationales,199,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+257,RE08,5,5,5,5,5,28,MT:PosRationales,142,male,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+257,RE09,5,5,5,5,5,383,CF:PosRationales,173,male,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+257,RE10,5,5,5,5,5,207,MT+CF:PosRationales,325,male,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+257,RE11,5,5,5,5,5,108,MT+CF:RevRationales,409,male,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+257,RE12,5,5,5,5,5,95,MT+CF:RevRationales,256,male,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+257,RE13,5,5,5,5,5,48,MT+CF:RevRationales,215,male,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+257,RE14,5,5,5,5,5,263,MT:PosRationales,202,male,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+257,RE15,5,5,5,5,5,356,MT:PosRationales,167,male,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+257,RE16,3,3,3,3,4,244,CF:PosRationales,250,male,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+257,RE17,5,5,5,5,5,232,CF:PosRationales,268,male,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+257,RE18,5,5,5,5,5,309,MT+CF:PosRationales,198,male,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+257,RE19,4,5,4,5,5,181,MT+CF:PosRationales,214,male,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+258,RE08,4,5,4,5,4,230,MT:PosRationales,179,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+258,RE09,3,3,4,4,4,129,CF:PosRationales,199,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+258,RE10,4,4,5,4,4,248,MT+CF:PosRationales,222,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+258,RE11,5,4,4,3,4,169,MT+CF:RevRationales,291,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+258,RE12,4,4,5,4,3,137,MT+CF:RevRationales,369,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+258,RE13,4,4,3,4,5,258,MT+CF:RevRationales,312,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+258,RE15,4,5,4,4,4,377,MT:PosRationales,164,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+258,RE16,4,5,4,3,4,152,CF:PosRationales,196,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+258,RE17,4,4,3,4,3,88,CF:PosRationales,153,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+258,RE18,4,4,5,4,4,290,MT+CF:PosRationales,239,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+258,RE19,5,4,4,5,4,353,MT+CF:PosRationales,257,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+259,RE08,3,4,4,2,5,323,MT:PosRationales,243,female,55 to 59 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Self-employed
+259,RE09,4,5,3,1,5,354,CF:PosRationales,320,female,55 to 59 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Self-employed
+259,RE10,2,5,4,2,5,237,MT+CF:PosRationales,222,female,55 to 59 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Self-employed
+259,RE11,3,5,3,1,4,339,MT+CF:RevRationales,300,female,55 to 59 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Self-employed
+259,RE12,4,5,4,3,4,289,MT+CF:RevRationales,416,female,55 to 59 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Self-employed
+259,RE15,2,5,4,2,5,239,MT:PosRationales,282,female,55 to 59 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Self-employed
+259,RE16,3,1,4,1,4,231,CF:PosRationales,234,female,55 to 59 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Self-employed
+259,RE17,1,1,1,1,3,218,CF:PosRationales,290,female,55 to 59 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Self-employed
+259,RE18,2,5,4,2,5,246,MT+CF:PosRationales,254,female,55 to 59 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Self-employed
+259,RE19,2,5,3,1,5,26,MT+CF:PosRationales,274,female,55 to 59 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Self-employed
+260,RE08,4,2,4,4,4,64,MT:PosRationales,234,female,30 to 34 years old,United States,"Vocational baccalaureate diploma, vocational secondary certification",Other
+260,RE09,4,2,3,3,4,103,CF:PosRationales,160,female,30 to 34 years old,United States,"Vocational baccalaureate diploma, vocational secondary certification",Other
+260,RE10,4,2,3,4,4,34,MT+CF:PosRationales,197,female,30 to 34 years old,United States,"Vocational baccalaureate diploma, vocational secondary certification",Other
+260,RE11,3,4,4,4,4,16,MT+CF:RevRationales,565,female,30 to 34 years old,United States,"Vocational baccalaureate diploma, vocational secondary certification",Other
+260,RE12,2,4,2,2,4,181,MT+CF:RevRationales,813,female,30 to 34 years old,United States,"Vocational baccalaureate diploma, vocational secondary certification",Other
+260,RE15,3,4,3,4,3,285,MT:PosRationales,245,female,30 to 34 years old,United States,"Vocational baccalaureate diploma, vocational secondary certification",Other
+260,RE16,3,2,3,3,4,101,CF:PosRationales,208,female,30 to 34 years old,United States,"Vocational baccalaureate diploma, vocational secondary certification",Other
+260,RE18,3,2,4,3,4,379,MT+CF:PosRationales,122,female,30 to 34 years old,United States,"Vocational baccalaureate diploma, vocational secondary certification",Other
+260,RE19,4,2,4,3,4,32,MT+CF:PosRationales,205,female,30 to 34 years old,United States,"Vocational baccalaureate diploma, vocational secondary certification",Other
+261,RE08,5,2,5,3,5,318,MT:PosRationales,222,female,20 to 24 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+261,RE09,4,2,5,4,5,116,CF:PosRationales,183,female,20 to 24 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+261,RE10,4,3,5,4,4,337,MT+CF:PosRationales,176,female,20 to 24 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+261,RE11,5,2,5,3,4,306,MT+CF:RevRationales,341,female,20 to 24 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+261,RE12,4,2,5,3,5,104,MT+CF:RevRationales,391,female,20 to 24 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+261,RE13,5,4,5,3,5,254,MT+CF:RevRationales,618,female,20 to 24 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+261,RE14,5,2,5,3,5,313,MT:PosRationales,289,female,20 to 24 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+261,RE15,5,2,5,3,5,295,MT:PosRationales,240,female,20 to 24 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+261,RE16,5,2,5,5,5,382,CF:PosRationales,242,female,20 to 24 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+261,RE17,5,4,5,3,5,39,CF:PosRationales,301,female,20 to 24 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+261,RE18,5,2,5,3,5,204,MT+CF:PosRationales,151,female,20 to 24 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+261,RE19,5,2,5,3,5,333,MT+CF:PosRationales,223,female,20 to 24 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+262,RE10,4,1,4,4,4,259,MT+CF:PosRationales,246,female,20 to 24 years old,United States,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+262,RE11,4,2,3,3,4,267,MT+CF:RevRationales,235,female,20 to 24 years old,United States,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+262,RE12,4,2,4,4,4,180,MT+CF:RevRationales,319,female,20 to 24 years old,United States,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+262,RE13,4,2,3,3,4,321,MT+CF:RevRationales,476,female,20 to 24 years old,United States,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+262,RE14,4,4,4,4,4,270,MT:PosRationales,186,female,20 to 24 years old,United States,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+262,RE15,4,4,4,4,4,264,MT:PosRationales,132,female,20 to 24 years old,United States,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+262,RE18,4,1,4,3,5,283,MT+CF:PosRationales,267,female,20 to 24 years old,United States,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+262,RE19,4,2,5,4,4,150,MT+CF:PosRationales,212,female,20 to 24 years old,United States,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+263,RE08,2,4,2,3,4,349,MT:PosRationales,268,female,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+263,RE09,2,2,2,2,3,160,CF:PosRationales,296,female,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+263,RE10,4,2,4,3,4,113,MT+CF:PosRationales,329,female,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+263,RE11,4,4,2,2,4,201,MT+CF:RevRationales,655,female,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+263,RE12,1,1,1,1,2,276,MT+CF:RevRationales,385,female,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+263,RE13,2,2,4,2,4,41,MT+CF:RevRationales,274,female,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+263,RE14,4,4,4,4,4,182,MT:PosRationales,272,female,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+263,RE16,2,2,4,4,5,305,CF:PosRationales,217,female,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+263,RE18,4,5,5,5,5,277,MT+CF:PosRationales,248,female,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+263,RE19,4,4,4,4,4,196,MT+CF:PosRationales,305,female,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+264,RE08,4,3,4,4,4,346,MT:PosRationales,182,female,55 to 59 years old,United Kingdom,Completed apprenticeship,Other
+264,RE09,4,4,4,3,4,315,CF:PosRationales,262,female,55 to 59 years old,United Kingdom,Completed apprenticeship,Other
+264,RE11,4,3,3,4,4,353,MT+CF:RevRationales,1275,female,55 to 59 years old,United Kingdom,Completed apprenticeship,Other
+264,RE12,3,4,4,4,4,154,MT+CF:RevRationales,333,female,55 to 59 years old,United Kingdom,Completed apprenticeship,Other
+264,RE13,4,3,4,3,4,136,MT+CF:RevRationales,331,female,55 to 59 years old,United Kingdom,Completed apprenticeship,Other
+264,RE14,3,4,4,4,4,52,MT:PosRationales,252,female,55 to 59 years old,United Kingdom,Completed apprenticeship,Other
+264,RE15,4,4,3,4,4,117,MT:PosRationales,221,female,55 to 59 years old,United Kingdom,Completed apprenticeship,Other
+264,RE16,3,3,4,3,4,81,CF:PosRationales,321,female,55 to 59 years old,United Kingdom,Completed apprenticeship,Other
+264,RE19,4,4,3,3,3,227,MT+CF:PosRationales,271,female,55 to 59 years old,United Kingdom,Completed apprenticeship,Other
+265,RE08,4,4,4,3,4,337,MT:PosRationales,215,male,25 to 29 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",University student
+265,RE12,4,4,4,3,4,293,MT+CF:RevRationales,241,male,25 to 29 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",University student
+265,RE15,4,3,4,4,4,334,MT:PosRationales,140,male,25 to 29 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",University student
+265,RE17,3,4,3,2,4,109,CF:PosRationales,326,male,25 to 29 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",University student
+265,RE19,4,4,4,4,4,180,MT+CF:PosRationales,226,male,25 to 29 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",University student
+266,RE08,4,5,4,4,5,40,MT:PosRationales,174,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+266,RE09,3,4,1,4,4,13,CF:PosRationales,294,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+266,RE10,4,5,5,4,5,269,MT+CF:PosRationales,154,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+266,RE11,4,5,2,4,4,7,MT+CF:RevRationales,414,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+266,RE13,5,5,5,5,5,189,MT+CF:RevRationales,272,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+266,RE14,3,4,2,2,3,282,MT:PosRationales,238,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+266,RE15,5,5,5,4,4,183,MT:PosRationales,147,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+266,RE17,4,3,5,4,5,193,CF:PosRationales,158,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+266,RE19,4,4,2,3,3,312,MT+CF:PosRationales,273,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+267,RE08,5,5,5,5,5,99,MT:PosRationales,224,male,65 years or older,United Kingdom,Vocational university/university of applied sciences/university degree,Other
+267,RE09,5,5,5,5,5,108,CF:PosRationales,139,male,65 years or older,United Kingdom,Vocational university/university of applied sciences/university degree,Other
+267,RE10,5,5,5,5,5,92,MT+CF:PosRationales,272,male,65 years or older,United Kingdom,Vocational university/university of applied sciences/university degree,Other
+267,RE11,5,5,5,5,5,260,MT+CF:RevRationales,509,male,65 years or older,United Kingdom,Vocational university/university of applied sciences/university degree,Other
+267,RE12,5,5,5,5,5,30,MT+CF:RevRationales,309,male,65 years or older,United Kingdom,Vocational university/university of applied sciences/university degree,Other
+267,RE13,5,5,5,5,5,51,MT+CF:RevRationales,246,male,65 years or older,United Kingdom,Vocational university/university of applied sciences/university degree,Other
+267,RE14,5,5,5,5,5,103,MT:PosRationales,274,male,65 years or older,United Kingdom,Vocational university/university of applied sciences/university degree,Other
+267,RE15,5,5,5,5,5,267,MT:PosRationales,218,male,65 years or older,United Kingdom,Vocational university/university of applied sciences/university degree,Other
+267,RE16,5,5,5,5,5,122,CF:PosRationales,184,male,65 years or older,United Kingdom,Vocational university/university of applied sciences/university degree,Other
+267,RE17,5,5,5,5,5,263,CF:PosRationales,129,male,65 years or older,United Kingdom,Vocational university/university of applied sciences/university degree,Other
+267,RE18,5,5,5,5,5,223,MT+CF:PosRationales,233,male,65 years or older,United Kingdom,Vocational university/university of applied sciences/university degree,Other
+267,RE19,5,5,5,5,5,363,MT+CF:PosRationales,308,male,65 years or older,United Kingdom,Vocational university/university of applied sciences/university degree,Other
+268,RE08,4,4,4,4,4,238,MT:PosRationales,238,female,30 to 34 years old,United Kingdom,Other degree,Employee
+268,RE09,5,5,5,5,5,177,CF:PosRationales,307,female,30 to 34 years old,United Kingdom,Other degree,Employee
+268,RE10,2,3,2,3,4,250,MT+CF:PosRationales,226,female,30 to 34 years old,United Kingdom,Other degree,Employee
+268,RE11,5,5,5,5,5,269,MT+CF:RevRationales,437,female,30 to 34 years old,United Kingdom,Other degree,Employee
+268,RE14,5,5,5,5,5,259,MT:PosRationales,219,female,30 to 34 years old,United Kingdom,Other degree,Employee
+268,RE15,5,5,5,5,5,42,MT:PosRationales,224,female,30 to 34 years old,United Kingdom,Other degree,Employee
+268,RE16,4,5,5,5,5,240,CF:PosRationales,187,female,30 to 34 years old,United Kingdom,Other degree,Employee
+268,RE17,5,5,5,5,5,124,CF:PosRationales,320,female,30 to 34 years old,United Kingdom,Other degree,Employee
+268,RE18,4,3,3,3,3,8,MT+CF:PosRationales,287,female,30 to 34 years old,United Kingdom,Other degree,Employee
+268,RE19,5,5,5,5,5,221,MT+CF:PosRationales,236,female,30 to 34 years old,United Kingdom,Other degree,Employee
+269,RE09,4,3,4,4,5,55,CF:PosRationales,102,female,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+269,RE10,3,5,4,3,5,20,MT+CF:PosRationales,260,female,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+269,RE11,4,4,4,4,4,32,MT+CF:RevRationales,423,female,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+269,RE12,2,4,2,2,4,187,MT+CF:RevRationales,467,female,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+269,RE13,3,2,3,2,4,285,MT+CF:RevRationales,511,female,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+269,RE14,2,4,4,4,4,296,MT:PosRationales,165,female,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+269,RE15,4,4,3,4,4,280,MT:PosRationales,202,female,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+269,RE16,4,4,4,4,4,115,CF:PosRationales,149,female,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+269,RE18,2,4,3,3,4,28,MT+CF:PosRationales,150,female,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+270,RE08,4,2,4,4,4,115,MT:PosRationales,225,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+270,RE09,4,4,4,4,4,361,CF:PosRationales,207,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+270,RE10,4,2,4,4,4,305,MT+CF:PosRationales,268,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+270,RE13,3,2,4,4,4,78,MT+CF:RevRationales,294,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+270,RE14,2,2,4,2,4,232,MT:PosRationales,112,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+270,RE15,4,2,4,4,4,306,MT:PosRationales,268,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+270,RE16,4,4,3,2,4,273,CF:PosRationales,258,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+270,RE17,2,4,4,3,4,23,CF:PosRationales,253,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+270,RE18,2,2,4,4,4,347,MT+CF:PosRationales,169,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+271,RE08,4,3,4,4,4,49,MT:PosRationales,197,male,20 to 24 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+271,RE09,4,3,4,4,4,274,CF:PosRationales,243,male,20 to 24 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+271,RE10,4,3,4,4,4,359,MT+CF:PosRationales,273,male,20 to 24 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+271,RE11,5,5,5,5,5,271,MT+CF:RevRationales,464,male,20 to 24 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+271,RE12,4,3,4,4,4,210,MT+CF:RevRationales,320,male,20 to 24 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+271,RE13,2,2,4,4,4,241,MT+CF:RevRationales,553,male,20 to 24 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+271,RE14,4,3,4,4,4,110,MT:PosRationales,231,male,20 to 24 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+271,RE15,4,3,4,4,4,253,MT:PosRationales,231,male,20 to 24 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+271,RE16,4,4,4,4,5,359,CF:PosRationales,311,male,20 to 24 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+271,RE17,4,3,5,4,4,111,CF:PosRationales,345,male,20 to 24 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+271,RE18,4,3,4,4,4,1,MT+CF:PosRationales,228,male,20 to 24 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+272,RE10,5,4,4,4,4,96,MT+CF:PosRationales,205,female,30 to 34 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Unemployed/seeking employment
+272,RE11,5,3,5,5,5,28,MT+CF:RevRationales,277,female,30 to 34 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Unemployed/seeking employment
+272,RE12,5,5,5,5,5,330,MT+CF:RevRationales,466,female,30 to 34 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Unemployed/seeking employment
+272,RE13,4,5,4,4,5,196,MT+CF:RevRationales,495,female,30 to 34 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Unemployed/seeking employment
+272,RE16,3,2,4,4,3,87,CF:PosRationales,281,female,30 to 34 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Unemployed/seeking employment
+272,RE19,5,3,5,5,5,138,MT+CF:PosRationales,232,female,30 to 34 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Unemployed/seeking employment
+273,RE08,5,5,5,5,5,165,MT:PosRationales,181,female,30 to 34 years old,United Kingdom,Other degree,Unemployed/seeking employment
+273,RE09,3,3,4,4,4,5,CF:PosRationales,205,female,30 to 34 years old,United Kingdom,Other degree,Unemployed/seeking employment
+273,RE10,4,4,2,2,4,348,MT+CF:PosRationales,248,female,30 to 34 years old,United Kingdom,Other degree,Unemployed/seeking employment
+273,RE11,5,5,5,5,5,61,MT+CF:RevRationales,352,female,30 to 34 years old,United Kingdom,Other degree,Unemployed/seeking employment
+273,RE12,5,5,5,5,5,305,MT+CF:RevRationales,243,female,30 to 34 years old,United Kingdom,Other degree,Unemployed/seeking employment
+273,RE13,4,5,5,4,5,123,MT+CF:RevRationales,322,female,30 to 34 years old,United Kingdom,Other degree,Unemployed/seeking employment
+273,RE14,5,5,5,4,4,51,MT:PosRationales,168,female,30 to 34 years old,United Kingdom,Other degree,Unemployed/seeking employment
+273,RE15,5,5,5,5,5,148,MT:PosRationales,330,female,30 to 34 years old,United Kingdom,Other degree,Unemployed/seeking employment
+273,RE16,3,2,3,3,2,198,CF:PosRationales,301,female,30 to 34 years old,United Kingdom,Other degree,Unemployed/seeking employment
+273,RE17,2,2,4,2,2,262,CF:PosRationales,159,female,30 to 34 years old,United Kingdom,Other degree,Unemployed/seeking employment
+273,RE18,5,5,5,5,4,288,MT+CF:PosRationales,241,female,30 to 34 years old,United Kingdom,Other degree,Unemployed/seeking employment
+273,RE19,5,5,5,5,2,130,MT+CF:PosRationales,264,female,30 to 34 years old,United Kingdom,Other degree,Unemployed/seeking employment
+274,RE08,3,4,4,4,4,251,MT:PosRationales,241,male,40 to 44 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Employee
+274,RE09,4,4,4,4,5,110,CF:PosRationales,210,male,40 to 44 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Employee
+274,RE10,4,5,4,4,5,114,MT+CF:PosRationales,219,male,40 to 44 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Employee
+274,RE13,4,4,3,3,4,47,MT+CF:RevRationales,508,male,40 to 44 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Employee
+274,RE14,5,5,5,5,5,85,MT:PosRationales,194,male,40 to 44 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Employee
+274,RE15,4,5,4,5,4,137,MT:PosRationales,214,male,40 to 44 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Employee
+274,RE16,5,4,4,4,5,43,CF:PosRationales,142,male,40 to 44 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Employee
+274,RE17,3,4,3,2,4,238,CF:PosRationales,234,male,40 to 44 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Employee
+274,RE18,4,4,5,5,5,151,MT+CF:PosRationales,205,male,40 to 44 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Employee
+274,RE19,4,5,5,4,4,273,MT+CF:PosRationales,270,male,40 to 44 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Employee
+275,RE08,4,2,4,4,4,381,MT:PosRationales,261,female,35 to 39 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+275,RE09,4,4,4,4,5,136,CF:PosRationales,169,female,35 to 39 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+275,RE10,4,4,4,4,4,37,MT+CF:PosRationales,160,female,35 to 39 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+275,RE11,4,4,4,4,4,101,MT+CF:RevRationales,253,female,35 to 39 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+275,RE12,4,2,4,4,4,216,MT+CF:RevRationales,276,female,35 to 39 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+275,RE13,4,4,4,4,4,177,MT+CF:RevRationales,1353,female,35 to 39 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+275,RE15,4,4,4,4,4,302,MT:PosRationales,147,female,35 to 39 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+275,RE16,4,2,4,4,4,189,CF:PosRationales,185,female,35 to 39 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+275,RE17,4,3,4,4,4,22,CF:PosRationales,318,female,35 to 39 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+275,RE18,4,4,4,4,4,373,MT+CF:PosRationales,293,female,35 to 39 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+275,RE19,4,4,4,4,4,362,MT+CF:PosRationales,150,female,35 to 39 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+276,RE08,4,3,4,4,4,241,MT:PosRationales,242,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+276,RE09,4,3,4,4,4,233,CF:PosRationales,358,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+276,RE11,4,4,4,4,4,163,MT+CF:RevRationales,647,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+276,RE12,4,4,4,4,4,150,MT+CF:RevRationales,522,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+276,RE13,3,2,4,4,4,366,MT+CF:RevRationales,266,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+276,RE14,4,3,4,4,4,26,MT:PosRationales,194,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+276,RE15,4,3,4,4,4,89,MT:PosRationales,244,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+276,RE16,4,3,4,4,4,304,CF:PosRationales,300,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+276,RE17,4,4,4,4,4,346,CF:PosRationales,198,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+276,RE18,3,2,4,2,4,185,MT+CF:PosRationales,292,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+276,RE19,3,2,4,4,4,43,MT+CF:PosRationales,160,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+277,RE13,2,2,4,3,4,363,MT+CF:RevRationales,277,female,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+277,RE14,2,2,4,2,4,104,MT:PosRationales,197,female,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+279,RE08,4,4,4,4,4,268,MT:PosRationales,217,female,20 to 24 years old,United States,Still in school,University student
+279,RE09,4,4,4,4,4,168,CF:PosRationales,287,female,20 to 24 years old,United States,Still in school,University student
+279,RE10,4,4,4,4,4,355,MT+CF:PosRationales,224,female,20 to 24 years old,United States,Still in school,University student
+279,RE11,4,4,4,3,4,52,MT+CF:RevRationales,490,female,20 to 24 years old,United States,Still in school,University student
+279,RE12,4,4,4,4,4,264,MT+CF:RevRationales,226,female,20 to 24 years old,United States,Still in school,University student
+279,RE13,4,4,4,4,4,247,MT+CF:RevRationales,368,female,20 to 24 years old,United States,Still in school,University student
+279,RE14,4,4,4,4,4,73,MT:PosRationales,311,female,20 to 24 years old,United States,Still in school,University student
+279,RE15,4,4,4,4,4,95,MT:PosRationales,177,female,20 to 24 years old,United States,Still in school,University student
+279,RE16,4,4,4,4,4,362,CF:PosRationales,348,female,20 to 24 years old,United States,Still in school,University student
+279,RE17,4,4,4,4,4,146,CF:PosRationales,224,female,20 to 24 years old,United States,Still in school,University student
+279,RE18,4,4,4,4,4,298,MT+CF:PosRationales,221,female,20 to 24 years old,United States,Still in school,University student
+279,RE19,4,4,4,4,4,192,MT+CF:PosRationales,262,female,20 to 24 years old,United States,Still in school,University student
+280,RE08,3,3,4,4,4,4,MT:PosRationales,156,female,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Self-employed
+280,RE09,3,3,3,3,5,335,CF:PosRationales,152,female,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Self-employed
+280,RE10,2,1,3,2,4,326,MT+CF:PosRationales,234,female,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Self-employed
+280,RE11,3,5,4,4,4,281,MT+CF:RevRationales,360,female,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Self-employed
+280,RE12,4,4,4,5,5,130,MT+CF:RevRationales,546,female,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Self-employed
+280,RE13,4,2,5,5,5,105,MT+CF:RevRationales,414,female,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Self-employed
+280,RE14,4,4,4,4,5,159,MT:PosRationales,140,female,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Self-employed
+280,RE15,5,3,5,5,5,168,MT:PosRationales,198,female,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Self-employed
+280,RE16,3,3,3,3,4,171,CF:PosRationales,240,female,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Self-employed
+280,RE18,3,3,4,3,4,356,MT+CF:PosRationales,364,female,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Self-employed
+280,RE19,4,4,5,5,5,314,MT+CF:PosRationales,283,female,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Self-employed
+282,RE08,5,1,5,4,5,347,MT:PosRationales,116,female,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+282,RE09,4,1,4,4,4,75,CF:PosRationales,212,female,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+282,RE10,4,2,5,4,5,304,MT+CF:PosRationales,135,female,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+282,RE11,5,2,5,5,5,364,MT+CF:RevRationales,271,female,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+282,RE12,4,1,5,4,5,309,MT+CF:RevRationales,215,female,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+282,RE13,4,1,4,4,4,327,MT+CF:RevRationales,214,female,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+282,RE14,4,1,4,4,4,90,MT:PosRationales,279,female,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+282,RE15,4,1,4,4,4,290,MT:PosRationales,126,female,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+282,RE16,3,1,3,3,4,379,CF:PosRationales,229,female,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+282,RE17,2,2,2,2,4,282,CF:PosRationales,281,female,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+282,RE18,4,2,4,4,4,59,MT+CF:PosRationales,126,female,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+282,RE19,4,2,4,4,5,75,MT+CF:PosRationales,177,female,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+283,RE08,4,3,4,3,4,149,MT:PosRationales,166,female,55 to 59 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+283,RE14,4,4,3,3,4,300,MT:PosRationales,275,female,55 to 59 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+284,RE08,4,5,5,5,5,181,MT:PosRationales,138,female,35 to 39 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+284,RE09,2,5,2,3,5,302,CF:PosRationales,241,female,35 to 39 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+284,RE10,4,5,4,4,5,328,MT+CF:PosRationales,307,female,35 to 39 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+284,RE11,4,5,4,4,5,311,MT+CF:RevRationales,480,female,35 to 39 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+284,RE12,3,4,3,2,5,176,MT+CF:RevRationales,328,female,35 to 39 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+284,RE13,5,5,5,5,5,355,MT+CF:RevRationales,377,female,35 to 39 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+284,RE14,5,5,5,5,5,339,MT:PosRationales,306,female,35 to 39 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+284,RE15,5,5,5,5,5,244,MT:PosRationales,269,female,35 to 39 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+284,RE16,1,4,3,2,5,14,CF:PosRationales,324,female,35 to 39 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+284,RE17,4,5,3,3,5,29,CF:PosRationales,315,female,35 to 39 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+284,RE18,5,5,5,5,5,208,MT+CF:PosRationales,269,female,35 to 39 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+284,RE19,3,5,4,4,5,322,MT+CF:PosRationales,238,female,35 to 39 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+285,RE10,4,5,4,4,4,76,MT+CF:PosRationales,219,male,65 years or older,United Kingdom,Vocational university/university of applied sciences/university degree,Other
+285,RE17,3,3,3,3,3,230,CF:PosRationales,249,male,65 years or older,United Kingdom,Vocational university/university of applied sciences/university degree,Other
+285,RE18,3,3,4,3,4,33,MT+CF:PosRationales,192,male,65 years or older,United Kingdom,Vocational university/university of applied sciences/university degree,Other
+285,RE19,3,4,3,3,4,360,MT+CF:PosRationales,297,male,65 years or older,United Kingdom,Vocational university/university of applied sciences/university degree,Other
+288,RE09,2,2,2,2,2,149,CF:PosRationales,305,male,25 to 29 years old,United Kingdom,Other degree,Employee
+288,RE10,3,1,2,3,3,282,MT+CF:PosRationales,241,male,25 to 29 years old,United Kingdom,Other degree,Employee
+288,RE11,4,4,4,4,4,292,MT+CF:RevRationales,312,male,25 to 29 years old,United Kingdom,Other degree,Employee
+288,RE12,4,5,4,4,4,26,MT+CF:RevRationales,427,male,25 to 29 years old,United Kingdom,Other degree,Employee
+288,RE13,4,3,4,4,4,20,MT+CF:RevRationales,402,male,25 to 29 years old,United Kingdom,Other degree,Employee
+288,RE14,4,2,4,4,4,327,MT:PosRationales,294,male,25 to 29 years old,United Kingdom,Other degree,Employee
+288,RE15,4,2,4,3,4,130,MT:PosRationales,114,male,25 to 29 years old,United Kingdom,Other degree,Employee
+288,RE16,3,2,4,3,4,169,CF:PosRationales,176,male,25 to 29 years old,United Kingdom,Other degree,Employee
+288,RE17,3,2,4,4,4,76,CF:PosRationales,187,male,25 to 29 years old,United Kingdom,Other degree,Employee
+288,RE18,4,2,4,4,4,159,MT+CF:PosRationales,199,male,25 to 29 years old,United Kingdom,Other degree,Employee
+288,RE19,4,2,4,4,4,350,MT+CF:PosRationales,238,male,25 to 29 years old,United Kingdom,Other degree,Employee
+289,RE08,4,3,4,4,5,69,MT:PosRationales,231,male,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+289,RE09,4,3,5,4,4,288,CF:PosRationales,207,male,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+289,RE11,5,4,5,5,5,82,MT+CF:RevRationales,430,male,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+289,RE12,5,2,5,5,5,183,MT+CF:RevRationales,233,male,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+289,RE13,5,2,5,5,5,268,MT+CF:RevRationales,366,male,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+289,RE14,4,3,4,5,5,216,MT:PosRationales,158,male,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+289,RE15,5,4,5,4,5,43,MT:PosRationales,177,male,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+289,RE16,4,3,4,3,4,134,CF:PosRationales,258,male,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+289,RE17,4,4,3,4,4,61,CF:PosRationales,264,male,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+289,RE18,4,3,5,5,5,108,MT+CF:PosRationales,200,male,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+289,RE19,3,3,5,5,4,134,MT+CF:PosRationales,274,male,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+290,RE09,4,4,4,4,4,292,CF:PosRationales,161,male,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+290,RE11,5,5,5,5,5,312,MT+CF:RevRationales,516,male,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+290,RE13,5,4,5,1,5,331,MT+CF:RevRationales,390,male,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+290,RE14,4,4,5,4,4,96,MT:PosRationales,245,male,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+290,RE17,5,4,4,5,4,12,CF:PosRationales,251,male,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+290,RE18,4,4,5,4,4,67,MT+CF:PosRationales,197,male,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+291,RE08,2,5,2,5,5,382,MT:PosRationales,223,male,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Civil servant
+291,RE09,2,5,2,2,5,85,CF:PosRationales,200,male,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Civil servant
+291,RE10,5,5,5,5,5,182,MT+CF:PosRationales,258,male,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Civil servant
+291,RE11,5,5,5,5,5,297,MT+CF:RevRationales,528,male,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Civil servant
+291,RE12,2,3,1,1,4,164,MT+CF:RevRationales,519,male,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Civil servant
+291,RE13,5,5,4,4,5,27,MT+CF:RevRationales,291,male,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Civil servant
+291,RE14,5,5,4,5,4,358,MT:PosRationales,340,male,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Civil servant
+291,RE15,3,4,3,2,4,121,MT:PosRationales,280,male,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Civil servant
+291,RE16,3,5,3,2,5,347,CF:PosRationales,235,male,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Civil servant
+291,RE17,5,5,2,2,4,340,CF:PosRationales,268,male,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Civil servant
+291,RE18,4,4,3,4,4,87,MT+CF:PosRationales,265,male,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Civil servant
+291,RE19,4,5,5,4,5,197,MT+CF:PosRationales,94,male,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Civil servant
+292,RE08,5,5,5,5,5,186,MT:PosRationales,166,male,45 to 49 years old,United Kingdom,Completed apprenticeship,Employee
+292,RE09,5,5,5,5,5,11,CF:PosRationales,281,male,45 to 49 years old,United Kingdom,Completed apprenticeship,Employee
+292,RE10,5,5,5,5,5,371,MT+CF:PosRationales,243,male,45 to 49 years old,United Kingdom,Completed apprenticeship,Employee
+292,RE11,5,5,5,5,5,324,MT+CF:RevRationales,523,male,45 to 49 years old,United Kingdom,Completed apprenticeship,Employee
+292,RE12,5,5,5,5,5,239,MT+CF:RevRationales,275,male,45 to 49 years old,United Kingdom,Completed apprenticeship,Employee
+292,RE13,5,5,5,5,5,131,MT+CF:RevRationales,272,male,45 to 49 years old,United Kingdom,Completed apprenticeship,Employee
+292,RE14,5,5,5,5,5,342,MT:PosRationales,301,male,45 to 49 years old,United Kingdom,Completed apprenticeship,Employee
+292,RE15,5,5,5,5,5,221,MT:PosRationales,134,male,45 to 49 years old,United Kingdom,Completed apprenticeship,Employee
+292,RE16,5,5,5,5,5,148,CF:PosRationales,268,male,45 to 49 years old,United Kingdom,Completed apprenticeship,Employee
+292,RE17,5,5,5,5,5,143,CF:PosRationales,182,male,45 to 49 years old,United Kingdom,Completed apprenticeship,Employee
+292,RE18,5,5,5,5,5,234,MT+CF:PosRationales,224,male,45 to 49 years old,United Kingdom,Completed apprenticeship,Employee
+292,RE19,5,5,5,5,5,374,MT+CF:PosRationales,227,male,45 to 49 years old,United Kingdom,Completed apprenticeship,Employee
+293,RE08,2,4,4,3,3,262,MT:PosRationales,142,male,25 to 29 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Self-employed
+293,RE09,3,4,4,4,5,82,CF:PosRationales,223,male,25 to 29 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Self-employed
+293,RE10,4,4,5,4,4,323,MT+CF:PosRationales,309,male,25 to 29 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Self-employed
+293,RE11,3,5,5,4,5,23,MT+CF:RevRationales,419,male,25 to 29 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Self-employed
+293,RE12,5,5,5,5,5,346,MT+CF:RevRationales,447,male,25 to 29 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Self-employed
+293,RE13,4,4,5,4,5,319,MT+CF:RevRationales,492,male,25 to 29 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Self-employed
+293,RE15,2,4,4,4,4,250,MT:PosRationales,223,male,25 to 29 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Self-employed
+293,RE16,4,5,5,5,5,311,CF:PosRationales,357,male,25 to 29 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Self-employed
+293,RE17,1,1,1,1,3,319,CF:PosRationales,203,male,25 to 29 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Self-employed
+293,RE18,2,2,4,3,4,140,MT+CF:PosRationales,206,male,25 to 29 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Self-employed
+293,RE19,4,3,4,4,4,216,MT+CF:PosRationales,226,male,25 to 29 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Self-employed
+294,RE08,5,5,5,5,5,79,MT:PosRationales,151,male,45 to 49 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+294,RE09,5,5,5,5,5,77,CF:PosRationales,161,male,45 to 49 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+294,RE10,5,5,5,5,5,154,MT+CF:PosRationales,320,male,45 to 49 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+294,RE11,5,5,5,5,5,146,MT+CF:RevRationales,499,male,45 to 49 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+294,RE12,5,5,5,5,5,303,MT+CF:RevRationales,334,male,45 to 49 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+294,RE13,5,5,5,5,5,208,MT+CF:RevRationales,452,male,45 to 49 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+294,RE14,5,5,5,5,5,325,MT:PosRationales,169,male,45 to 49 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+294,RE15,5,5,5,5,5,135,MT:PosRationales,176,male,45 to 49 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+294,RE16,5,5,5,5,5,239,CF:PosRationales,275,male,45 to 49 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+294,RE17,5,5,5,5,5,182,CF:PosRationales,276,male,45 to 49 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+294,RE18,5,5,5,5,5,332,MT+CF:PosRationales,297,male,45 to 49 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+294,RE19,5,5,5,5,5,320,MT+CF:PosRationales,262,male,45 to 49 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+295,RE08,5,4,5,5,4,158,MT:PosRationales,289,male,20 to 24 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Unemployed/seeking employment
+295,RE09,5,4,5,5,4,380,CF:PosRationales,345,male,20 to 24 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Unemployed/seeking employment
+295,RE10,5,5,5,5,5,90,MT+CF:PosRationales,281,male,20 to 24 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Unemployed/seeking employment
+295,RE11,5,4,4,4,4,9,MT+CF:RevRationales,276,male,20 to 24 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Unemployed/seeking employment
+295,RE12,5,5,4,4,5,340,MT+CF:RevRationales,271,male,20 to 24 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Unemployed/seeking employment
+295,RE13,4,5,4,5,5,44,MT+CF:RevRationales,382,male,20 to 24 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Unemployed/seeking employment
+295,RE14,4,5,5,5,5,36,MT:PosRationales,155,male,20 to 24 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Unemployed/seeking employment
+295,RE15,4,5,4,5,5,217,MT:PosRationales,123,male,20 to 24 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Unemployed/seeking employment
+295,RE16,5,4,5,5,5,57,CF:PosRationales,324,male,20 to 24 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Unemployed/seeking employment
+295,RE17,5,4,5,5,4,227,CF:PosRationales,257,male,20 to 24 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Unemployed/seeking employment
+295,RE18,5,4,5,5,5,66,MT+CF:PosRationales,237,male,20 to 24 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Unemployed/seeking employment
+295,RE19,5,4,4,4,5,241,MT+CF:PosRationales,253,male,20 to 24 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Unemployed/seeking employment
+298,RE10,4,1,4,4,4,306,MT+CF:PosRationales,243,female,20 to 24 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+298,RE11,4,1,4,5,5,358,MT+CF:RevRationales,384,female,20 to 24 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+298,RE14,4,1,4,4,4,343,MT:PosRationales,245,female,20 to 24 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+298,RE15,2,1,2,2,4,215,MT:PosRationales,152,female,20 to 24 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+299,RE08,5,5,4,4,5,324,MT:PosRationales,214,male,35 to 39 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Self-employed
+299,RE09,5,4,5,4,5,113,CF:PosRationales,303,male,35 to 39 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Self-employed
+299,RE12,4,5,4,4,5,352,MT+CF:RevRationales,255,male,35 to 39 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Self-employed
+299,RE13,3,2,4,4,4,179,MT+CF:RevRationales,248,male,35 to 39 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Self-employed
+299,RE14,4,4,5,4,5,365,MT:PosRationales,246,male,35 to 39 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Self-employed
+299,RE16,4,4,5,5,5,365,CF:PosRationales,158,male,35 to 39 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Self-employed
+299,RE17,2,3,2,2,2,91,CF:PosRationales,195,male,35 to 39 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Self-employed
+299,RE18,4,4,5,5,5,236,MT+CF:PosRationales,192,male,35 to 39 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Self-employed
+299,RE19,3,4,4,4,3,105,MT+CF:PosRationales,229,male,35 to 39 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Self-employed
+300,RE08,4,4,4,4,4,340,MT:PosRationales,305,female,55 to 59 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Other
+300,RE10,4,4,4,4,4,71,MT+CF:PosRationales,214,female,55 to 59 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Other
+300,RE11,4,4,4,4,4,253,MT+CF:RevRationales,233,female,55 to 59 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Other
+300,RE12,4,4,4,4,4,140,MT+CF:RevRationales,390,female,55 to 59 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Other
+300,RE13,4,4,4,4,4,192,MT+CF:RevRationales,203,female,55 to 59 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Other
+300,RE17,4,4,4,4,4,250,CF:PosRationales,276,female,55 to 59 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Other
+300,RE18,4,4,4,4,4,327,MT+CF:PosRationales,226,female,55 to 59 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Other
+300,RE19,4,4,4,4,4,162,MT+CF:PosRationales,267,female,55 to 59 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Other
+301,RE08,4,4,4,3,4,288,MT:PosRationales,322,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+301,RE09,5,5,5,5,5,104,CF:PosRationales,166,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+301,RE10,5,4,5,5,4,200,MT+CF:PosRationales,199,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+301,RE12,5,5,5,5,5,39,MT+CF:RevRationales,307,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+301,RE14,4,4,5,5,5,184,MT:PosRationales,153,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+301,RE15,4,4,3,4,3,15,MT:PosRationales,164,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+301,RE16,5,4,5,5,5,289,CF:PosRationales,235,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+301,RE18,4,3,3,4,5,206,MT+CF:PosRationales,329,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+301,RE19,5,5,5,5,5,89,MT+CF:PosRationales,224,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+302,RE08,2,4,1,1,4,14,MT:PosRationales,217,male,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+302,RE09,5,4,5,4,4,176,CF:PosRationales,171,male,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+302,RE10,4,4,4,4,4,315,MT+CF:PosRationales,211,male,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+302,RE11,5,5,5,4,5,103,MT+CF:RevRationales,356,male,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+302,RE12,4,4,4,4,4,184,MT+CF:RevRationales,255,male,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+302,RE13,4,5,5,5,5,133,MT+CF:RevRationales,511,male,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+302,RE14,5,5,5,5,5,17,MT:PosRationales,201,male,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+302,RE15,5,5,5,5,5,357,MT:PosRationales,157,male,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+302,RE17,5,4,5,5,5,158,CF:PosRationales,281,male,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+302,RE18,5,5,5,5,5,268,MT+CF:PosRationales,214,male,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+303,RE08,3,2,4,4,4,18,MT:PosRationales,257,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+303,RE12,3,2,2,2,4,225,MT+CF:RevRationales,517,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+303,RE13,5,5,5,5,5,307,MT+CF:RevRationales,410,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+303,RE14,4,3,5,4,4,332,MT:PosRationales,306,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+303,RE15,2,2,4,2,4,245,MT:PosRationales,130,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+303,RE16,3,2,4,3,4,42,CF:PosRationales,287,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+303,RE17,4,2,4,4,4,309,CF:PosRationales,260,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+303,RE18,2,2,4,3,4,142,MT+CF:PosRationales,194,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+303,RE19,3,2,4,4,4,210,MT+CF:PosRationales,332,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+304,RE08,4,3,5,5,5,6,MT:PosRationales,234,female,30 to 34 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+304,RE09,5,2,5,5,5,297,CF:PosRationales,305,female,30 to 34 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+304,RE10,5,2,5,5,5,258,MT+CF:PosRationales,240,female,30 to 34 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+304,RE11,5,4,5,5,5,314,MT+CF:RevRationales,323,female,30 to 34 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+304,RE12,5,3,5,5,5,36,MT+CF:RevRationales,367,female,30 to 34 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+304,RE13,5,5,5,5,5,110,MT+CF:RevRationales,505,female,30 to 34 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+304,RE14,5,2,5,5,5,209,MT:PosRationales,164,female,30 to 34 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+304,RE15,5,2,5,5,5,260,MT:PosRationales,240,female,30 to 34 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+304,RE17,4,2,4,4,4,24,CF:PosRationales,213,female,30 to 34 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+304,RE18,5,2,5,5,4,228,MT+CF:PosRationales,152,female,30 to 34 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+304,RE19,5,2,5,5,5,166,MT+CF:PosRationales,294,female,30 to 34 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+305,RE08,2,2,4,4,4,354,MT:PosRationales,187,female,30 to 34 years old,United Kingdom,Other degree,Employee
+305,RE09,5,5,5,5,5,121,CF:PosRationales,205,female,30 to 34 years old,United Kingdom,Other degree,Employee
+305,RE10,2,4,2,2,4,146,MT+CF:PosRationales,282,female,30 to 34 years old,United Kingdom,Other degree,Employee
+305,RE11,5,5,5,5,5,361,MT+CF:RevRationales,297,female,30 to 34 years old,United Kingdom,Other degree,Employee
+305,RE13,5,5,5,5,5,134,MT+CF:RevRationales,522,female,30 to 34 years old,United Kingdom,Other degree,Employee
+305,RE14,2,1,2,2,2,153,MT:PosRationales,160,female,30 to 34 years old,United Kingdom,Other degree,Employee
+305,RE16,4,5,5,5,5,72,CF:PosRationales,285,female,30 to 34 years old,United Kingdom,Other degree,Employee
+305,RE17,2,2,2,4,4,286,CF:PosRationales,275,female,30 to 34 years old,United Kingdom,Other degree,Employee
+305,RE18,5,5,5,5,5,176,MT+CF:PosRationales,208,female,30 to 34 years old,United Kingdom,Other degree,Employee
+305,RE19,5,5,5,5,5,19,MT+CF:PosRationales,164,female,30 to 34 years old,United Kingdom,Other degree,Employee
+307,RE08,5,4,4,5,4,136,MT:PosRationales,255,female,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Self-employed
+307,RE09,4,3,4,4,4,56,CF:PosRationales,179,female,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Self-employed
+307,RE11,4,4,4,3,5,256,MT+CF:RevRationales,454,female,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Self-employed
+307,RE12,4,5,4,5,5,98,MT+CF:RevRationales,515,female,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Self-employed
+307,RE14,4,4,2,2,4,311,MT:PosRationales,291,female,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Self-employed
+307,RE16,3,4,5,4,4,360,CF:PosRationales,275,female,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Self-employed
+307,RE17,4,4,4,5,4,147,CF:PosRationales,269,female,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Self-employed
+307,RE18,4,4,4,4,4,351,MT+CF:PosRationales,216,female,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Self-employed
+307,RE19,4,3,4,4,4,264,MT+CF:PosRationales,187,female,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Self-employed
+308,RE10,4,4,4,4,4,202,MT+CF:PosRationales,96,female,40 to 44 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+308,RE12,4,4,4,5,4,228,MT+CF:RevRationales,410,female,40 to 44 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+308,RE14,4,4,4,4,4,308,MT:PosRationales,262,female,40 to 44 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+308,RE15,4,4,4,4,4,58,MT:PosRationales,292,female,40 to 44 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+308,RE16,4,4,4,4,4,52,CF:PosRationales,152,female,40 to 44 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+308,RE19,5,5,5,5,5,198,MT+CF:PosRationales,238,female,40 to 44 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+309,RE08,4,2,5,4,5,92,MT:PosRationales,185,female,20 to 24 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,University student
+309,RE09,3,1,4,4,4,298,CF:PosRationales,251,female,20 to 24 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,University student
+309,RE10,4,3,5,5,5,316,MT+CF:PosRationales,269,female,20 to 24 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,University student
+309,RE11,4,3,5,4,5,197,MT+CF:RevRationales,238,female,20 to 24 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,University student
+309,RE12,4,3,4,4,4,257,MT+CF:RevRationales,572,female,20 to 24 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,University student
+309,RE13,5,5,5,5,5,206,MT+CF:RevRationales,383,female,20 to 24 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,University student
+309,RE14,2,1,3,2,4,310,MT:PosRationales,252,female,20 to 24 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,University student
+309,RE15,4,1,4,4,5,29,MT:PosRationales,255,female,20 to 24 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,University student
+309,RE16,4,2,5,4,5,195,CF:PosRationales,312,female,20 to 24 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,University student
+309,RE17,5,2,5,5,5,376,CF:PosRationales,198,female,20 to 24 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,University student
+309,RE18,4,3,4,4,4,112,MT+CF:PosRationales,243,female,20 to 24 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,University student
+309,RE19,4,3,5,4,4,156,MT+CF:PosRationales,142,female,20 to 24 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,University student
+310,RE08,4,1,4,4,4,376,MT:PosRationales,215,male,45 to 49 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+310,RE09,4,4,4,4,4,167,CF:PosRationales,180,male,45 to 49 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+310,RE10,5,2,5,5,5,3,MT+CF:PosRationales,133,male,45 to 49 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+310,RE11,3,2,3,3,3,125,MT+CF:RevRationales,355,male,45 to 49 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+310,RE13,4,4,4,4,4,2,MT+CF:RevRationales,569,male,45 to 49 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+310,RE14,3,2,2,2,2,194,MT:PosRationales,160,male,45 to 49 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+310,RE15,4,2,4,4,4,279,MT:PosRationales,138,male,45 to 49 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+310,RE17,3,1,4,4,4,203,CF:PosRationales,282,male,45 to 49 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+310,RE18,3,2,3,3,2,345,MT+CF:PosRationales,134,male,45 to 49 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+310,RE19,3,2,3,3,4,63,MT+CF:PosRationales,225,male,45 to 49 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+311,RE09,4,1,2,2,4,248,CF:PosRationales,141,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Civil servant
+311,RE10,4,5,4,4,4,342,MT+CF:PosRationales,238,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Civil servant
+311,RE12,5,4,5,5,5,204,MT+CF:RevRationales,226,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Civil servant
+311,RE16,2,2,2,1,4,228,CF:PosRationales,342,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Civil servant
+311,RE17,3,2,2,4,4,183,CF:PosRationales,254,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Civil servant
+311,RE18,2,2,4,2,4,149,MT+CF:PosRationales,266,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Civil servant
+311,RE19,5,4,5,5,5,122,MT+CF:PosRationales,268,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Civil servant
+312,RE08,2,2,4,2,4,70,MT:PosRationales,258,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+312,RE09,2,4,4,3,4,16,CF:PosRationales,178,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+312,RE10,2,2,4,2,4,93,MT+CF:PosRationales,191,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+312,RE11,4,4,4,2,4,212,MT+CF:RevRationales,786,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+312,RE12,4,4,4,2,4,158,MT+CF:RevRationales,891,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+312,RE13,2,2,4,2,4,19,MT+CF:RevRationales,259,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+312,RE14,2,2,2,2,4,189,MT:PosRationales,115,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+312,RE15,2,2,4,2,4,48,MT:PosRationales,221,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+312,RE16,3,4,4,3,4,332,CF:PosRationales,287,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+312,RE17,2,2,4,2,4,53,CF:PosRationales,226,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+312,RE18,2,2,4,2,4,225,MT+CF:PosRationales,226,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+312,RE19,2,2,2,2,4,12,MT+CF:PosRationales,181,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+313,RE08,4,4,4,4,4,197,MT:PosRationales,229,female,45 to 49 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+313,RE09,4,4,4,4,4,314,CF:PosRationales,291,female,45 to 49 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+313,RE10,4,4,4,4,4,218,MT+CF:PosRationales,244,female,45 to 49 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+313,RE11,4,4,4,4,4,356,MT+CF:RevRationales,622,female,45 to 49 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+313,RE12,4,4,4,4,4,282,MT+CF:RevRationales,441,female,45 to 49 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+313,RE13,4,4,4,4,4,127,MT+CF:RevRationales,322,female,45 to 49 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+313,RE14,4,4,4,4,4,164,MT:PosRationales,264,female,45 to 49 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+313,RE15,4,4,4,4,4,359,MT:PosRationales,294,female,45 to 49 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+313,RE16,4,4,4,4,4,337,CF:PosRationales,263,female,45 to 49 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+313,RE17,4,4,4,4,4,162,CF:PosRationales,189,female,45 to 49 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+313,RE18,4,4,4,4,4,214,MT+CF:PosRationales,221,female,45 to 49 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+313,RE19,4,4,4,4,4,295,MT+CF:PosRationales,216,female,45 to 49 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+314,RE08,4,5,5,4,5,363,MT:PosRationales,217,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+314,RE09,4,5,5,5,5,40,CF:PosRationales,244,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+314,RE10,3,3,2,4,3,4,MT+CF:PosRationales,252,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+314,RE11,5,5,5,4,5,185,MT+CF:RevRationales,268,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+314,RE12,5,5,5,5,5,106,MT+CF:RevRationales,223,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+314,RE13,2,4,2,4,4,320,MT+CF:RevRationales,455,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+314,RE15,5,5,5,5,5,139,MT:PosRationales,161,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+314,RE16,5,5,5,5,5,251,CF:PosRationales,173,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+314,RE17,5,5,5,5,5,255,CF:PosRationales,290,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+314,RE18,5,4,4,3,4,222,MT+CF:PosRationales,241,female,25 to 29 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+316,RE08,4,4,5,4,5,107,MT:PosRationales,141,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+316,RE09,4,5,4,5,4,214,CF:PosRationales,239,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+316,RE10,5,5,5,5,5,83,MT+CF:PosRationales,183,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+316,RE11,5,5,5,5,5,109,MT+CF:RevRationales,419,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+316,RE12,5,5,5,5,5,94,MT+CF:RevRationales,464,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+316,RE13,4,4,5,4,4,302,MT+CF:RevRationales,250,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+316,RE14,5,4,5,4,5,224,MT:PosRationales,203,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+316,RE15,5,5,5,5,5,321,MT:PosRationales,175,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+316,RE16,5,5,5,4,5,179,CF:PosRationales,258,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+316,RE17,5,5,5,5,5,352,CF:PosRationales,162,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+316,RE18,4,4,4,4,5,145,MT+CF:PosRationales,212,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+316,RE19,4,4,3,4,4,124,MT+CF:PosRationales,234,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+317,RE08,4,4,5,4,5,206,MT:PosRationales,139,female,20 to 24 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",University student
+317,RE09,4,4,4,4,4,58,CF:PosRationales,310,female,20 to 24 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",University student
+317,RE10,1,1,1,1,1,178,MT+CF:PosRationales,281,female,20 to 24 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",University student
+317,RE11,5,5,5,5,5,107,MT+CF:RevRationales,809,female,20 to 24 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",University student
+317,RE12,3,1,3,2,4,59,MT+CF:RevRationales,317,female,20 to 24 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",University student
+317,RE13,4,3,4,4,5,273,MT+CF:RevRationales,276,female,20 to 24 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",University student
+317,RE15,5,3,5,5,5,362,MT:PosRationales,347,female,20 to 24 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",University student
+317,RE16,2,1,2,1,3,216,CF:PosRationales,330,female,20 to 24 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",University student
+317,RE17,2,3,4,2,3,339,CF:PosRationales,316,female,20 to 24 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",University student
+317,RE18,3,2,4,3,4,101,MT+CF:PosRationales,180,female,20 to 24 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",University student
+317,RE19,2,1,3,2,4,54,MT+CF:PosRationales,283,female,20 to 24 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",University student
+318,RE08,4,4,4,5,4,63,MT:PosRationales,167,female,60 to 64 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Employee
+318,RE09,5,5,5,5,5,224,CF:PosRationales,218,female,60 to 64 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Employee
+318,RE11,5,5,5,5,5,234,MT+CF:RevRationales,270,female,60 to 64 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Employee
+318,RE12,5,5,4,3,5,57,MT+CF:RevRationales,564,female,60 to 64 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Employee
+318,RE13,4,4,4,3,5,33,MT+CF:RevRationales,486,female,60 to 64 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Employee
+318,RE16,5,5,5,5,5,175,CF:PosRationales,335,female,60 to 64 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Employee
+318,RE17,5,5,4,4,4,279,CF:PosRationales,301,female,60 to 64 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Employee
+318,RE18,2,3,3,2,3,6,MT+CF:PosRationales,287,female,60 to 64 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Employee
+318,RE19,4,5,4,4,5,358,MT+CF:PosRationales,235,female,60 to 64 years old,United Kingdom,Secondary school-leaving certificate/Junior High Diploma,Employee
+319,RE11,4,4,4,4,4,263,MT+CF:RevRationales,806,male,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,University student
+319,RE15,2,2,2,2,2,305,MT:PosRationales,220,male,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,University student
+319,RE16,2,2,2,4,4,375,CF:PosRationales,208,male,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,University student
+319,RE17,2,4,2,4,4,138,CF:PosRationales,324,male,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,University student
+319,RE18,3,2,4,4,4,281,MT+CF:PosRationales,264,male,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,University student
+319,RE19,4,4,4,4,4,352,MT+CF:PosRationales,242,male,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,University student
+320,RE09,4,4,5,5,4,378,CF:PosRationales,232,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+320,RE10,4,5,5,4,5,46,MT+CF:PosRationales,284,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+320,RE11,4,5,5,4,3,143,MT+CF:RevRationales,293,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+320,RE12,5,5,5,5,5,29,MT+CF:RevRationales,349,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+320,RE14,3,5,4,4,5,34,MT:PosRationales,143,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+320,RE15,4,3,4,4,5,226,MT:PosRationales,208,male,35 to 39 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+321,RE09,3,4,2,2,3,70,CF:PosRationales,340,male,30 to 34 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+321,RE11,4,4,4,4,4,202,MT+CF:RevRationales,580,male,30 to 34 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+321,RE13,4,4,4,4,4,233,MT+CF:RevRationales,311,male,30 to 34 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+321,RE14,2,4,2,2,4,8,MT:PosRationales,295,male,30 to 34 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+321,RE15,4,4,4,4,4,46,MT:PosRationales,140,male,30 to 34 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+321,RE16,3,4,2,2,4,266,CF:PosRationales,245,male,30 to 34 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+321,RE17,4,3,4,4,4,308,CF:PosRationales,174,male,30 to 34 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+321,RE18,4,4,4,4,4,111,MT+CF:PosRationales,247,male,30 to 34 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+321,RE19,4,4,2,2,4,224,MT+CF:PosRationales,300,male,30 to 34 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+322,RE10,4,2,4,4,4,325,MT+CF:PosRationales,237,male,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+322,RE11,5,2,4,4,4,335,MT+CF:RevRationales,292,male,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+322,RE13,4,4,4,4,4,151,MT+CF:RevRationales,462,male,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+322,RE15,2,1,4,4,4,170,MT:PosRationales,164,male,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+322,RE16,4,2,4,4,4,323,CF:PosRationales,344,male,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+322,RE18,4,2,4,4,4,82,MT+CF:PosRationales,404,male,50 to 54 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+323,RE08,4,4,4,3,3,81,MT:PosRationales,198,male,50 to 54 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Employee
+323,RE09,5,5,5,4,5,281,CF:PosRationales,249,male,50 to 54 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Employee
+323,RE10,4,4,5,3,5,44,MT+CF:PosRationales,266,male,50 to 54 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Employee
+323,RE12,4,5,5,4,4,203,MT+CF:RevRationales,441,male,50 to 54 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Employee
+323,RE14,5,4,5,4,5,191,MT:PosRationales,231,male,50 to 54 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Employee
+323,RE17,4,5,5,4,5,107,CF:PosRationales,270,male,50 to 54 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Employee
+323,RE19,4,5,5,3,4,229,MT+CF:PosRationales,302,male,50 to 54 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Employee
+324,RE08,5,5,5,5,5,228,MT:PosRationales,168,male,20 to 24 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,University student
+324,RE09,5,5,5,5,5,25,CF:PosRationales,338,male,20 to 24 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,University student
+324,RE10,5,5,5,5,5,133,MT+CF:PosRationales,245,male,20 to 24 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,University student
+324,RE11,5,5,5,5,5,218,MT+CF:RevRationales,544,male,20 to 24 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,University student
+324,RE12,5,5,5,5,5,122,MT+CF:RevRationales,408,male,20 to 24 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,University student
+324,RE13,5,5,5,5,5,288,MT+CF:RevRationales,265,male,20 to 24 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,University student
+324,RE14,5,5,5,5,5,352,MT:PosRationales,150,male,20 to 24 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,University student
+324,RE15,5,5,5,5,5,163,MT:PosRationales,250,male,20 to 24 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,University student
+324,RE16,5,5,5,5,5,295,CF:PosRationales,320,male,20 to 24 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,University student
+324,RE17,5,5,5,5,5,210,CF:PosRationales,283,male,20 to 24 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,University student
+324,RE18,5,5,5,5,5,265,MT+CF:PosRationales,211,male,20 to 24 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,University student
+324,RE19,5,5,5,5,5,121,MT+CF:PosRationales,211,male,20 to 24 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,University student
+325,RE08,5,2,5,5,5,223,MT:PosRationales,324,male,20 to 24 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+325,RE09,5,2,5,5,5,153,CF:PosRationales,271,male,20 to 24 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+325,RE10,4,2,5,5,5,117,MT+CF:PosRationales,248,male,20 to 24 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+325,RE11,4,2,4,4,4,24,MT+CF:RevRationales,239,male,20 to 24 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+325,RE12,4,5,4,4,5,207,MT+CF:RevRationales,413,male,20 to 24 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+325,RE13,5,5,5,5,5,376,MT+CF:RevRationales,394,male,20 to 24 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+325,RE14,5,2,5,5,5,161,MT:PosRationales,332,male,20 to 24 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+325,RE15,4,1,4,4,4,125,MT:PosRationales,176,male,20 to 24 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+325,RE16,5,2,5,5,5,367,CF:PosRationales,284,male,20 to 24 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+325,RE17,5,2,5,4,4,357,CF:PosRationales,278,male,20 to 24 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+325,RE18,4,2,5,5,5,310,MT+CF:PosRationales,213,male,20 to 24 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+325,RE19,4,2,5,4,5,247,MT+CF:PosRationales,176,male,20 to 24 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+326,RE08,5,5,5,5,5,234,MT:PosRationales,217,female,60 to 64 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+326,RE09,4,4,4,4,4,299,CF:PosRationales,142,female,60 to 64 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+326,RE10,5,5,5,5,5,199,MT+CF:PosRationales,225,female,60 to 64 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+326,RE12,5,5,5,5,5,144,MT+CF:RevRationales,523,female,60 to 64 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+326,RE13,5,5,5,5,5,83,MT+CF:RevRationales,371,female,60 to 64 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+326,RE16,5,5,5,5,5,208,CF:PosRationales,287,female,60 to 64 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+326,RE17,5,5,5,5,5,220,CF:PosRationales,201,female,60 to 64 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+326,RE18,5,5,5,5,5,329,MT+CF:PosRationales,193,female,60 to 64 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+326,RE19,5,5,5,5,5,136,MT+CF:PosRationales,289,female,60 to 64 years old,United Kingdom,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Unemployed/seeking employment
+327,RE08,4,4,5,5,5,67,MT:PosRationales,171,male,25 to 29 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Employee
+327,RE09,4,4,3,2,4,312,CF:PosRationales,318,male,25 to 29 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Employee
+327,RE10,2,1,1,1,1,74,MT+CF:PosRationales,268,male,25 to 29 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Employee
+327,RE11,2,3,4,3,4,35,MT+CF:RevRationales,446,male,25 to 29 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Employee
+327,RE12,5,5,5,4,5,116,MT+CF:RevRationales,282,male,25 to 29 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Employee
+327,RE13,4,4,4,2,5,354,MT+CF:RevRationales,463,male,25 to 29 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Employee
+327,RE14,4,2,4,4,4,368,MT:PosRationales,167,male,25 to 29 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Employee
+327,RE15,4,4,4,4,5,320,MT:PosRationales,145,male,25 to 29 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Employee
+327,RE16,4,4,4,3,4,373,CF:PosRationales,195,male,25 to 29 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Employee
+327,RE17,4,4,4,3,5,229,CF:PosRationales,313,male,25 to 29 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Employee
+327,RE18,5,5,5,5,5,331,MT+CF:PosRationales,180,male,25 to 29 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Employee
+327,RE19,5,5,5,3,5,127,MT+CF:PosRationales,323,male,25 to 29 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Employee
+328,RE10,3,2,3,3,4,77,MT+CF:PosRationales,160,male,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+328,RE13,4,4,4,3,4,97,MT+CF:RevRationales,535,male,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+328,RE14,3,4,4,4,3,236,MT:PosRationales,151,male,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+328,RE16,4,2,4,4,4,59,CF:PosRationales,235,male,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+328,RE17,2,4,4,4,4,254,CF:PosRationales,383,male,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+329,RE08,5,5,5,5,5,1,MT:PosRationales,155,female,60 to 64 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+329,RE09,5,5,5,5,5,371,CF:PosRationales,332,female,60 to 64 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+329,RE10,5,5,5,5,5,271,MT+CF:PosRationales,188,female,60 to 64 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+329,RE11,2,2,2,2,4,153,MT+CF:RevRationales,302,female,60 to 64 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+329,RE13,5,5,5,5,5,298,MT+CF:RevRationales,296,female,60 to 64 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+329,RE14,2,4,4,2,4,75,MT:PosRationales,169,female,60 to 64 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+329,RE15,5,5,5,5,5,275,MT:PosRationales,267,female,60 to 64 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+329,RE16,1,2,2,2,4,51,CF:PosRationales,295,female,60 to 64 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+329,RE17,2,4,4,4,4,241,CF:PosRationales,156,female,60 to 64 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+329,RE18,5,5,5,5,5,313,MT+CF:PosRationales,253,female,60 to 64 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+329,RE19,2,4,4,2,4,61,MT+CF:PosRationales,197,female,60 to 64 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Employee
+330,RE09,3,2,4,3,4,74,CF:PosRationales,202,male,20 to 24 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Training/apprenticeship
+330,RE10,4,4,4,4,3,376,MT+CF:PosRationales,159,male,20 to 24 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Training/apprenticeship
+330,RE11,4,4,4,4,5,70,MT+CF:RevRationales,344,male,20 to 24 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Training/apprenticeship
+330,RE12,4,3,5,5,5,84,MT+CF:RevRationales,526,male,20 to 24 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Training/apprenticeship
+330,RE13,5,5,5,4,4,190,MT+CF:RevRationales,1287,male,20 to 24 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Training/apprenticeship
+330,RE14,4,4,5,4,5,126,MT:PosRationales,261,male,20 to 24 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Training/apprenticeship
+330,RE15,4,4,5,5,5,196,MT:PosRationales,236,male,20 to 24 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Training/apprenticeship
+330,RE16,3,3,4,4,4,2,CF:PosRationales,227,male,20 to 24 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Training/apprenticeship
+330,RE17,3,4,4,4,4,3,CF:PosRationales,328,male,20 to 24 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Training/apprenticeship
+330,RE18,5,4,4,5,4,144,MT+CF:PosRationales,324,male,20 to 24 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Training/apprenticeship
+330,RE19,4,5,5,4,4,169,MT+CF:PosRationales,189,male,20 to 24 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Training/apprenticeship
+331,RE08,4,4,5,4,4,378,MT:PosRationales,184,female,40 to 44 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+331,RE10,4,4,4,4,4,184,MT+CF:PosRationales,112,female,40 to 44 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+331,RE11,2,3,2,2,2,141,MT+CF:RevRationales,390,female,40 to 44 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+331,RE12,4,4,4,4,4,22,MT+CF:RevRationales,525,female,40 to 44 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+331,RE13,5,5,5,5,5,317,MT+CF:RevRationales,240,female,40 to 44 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+331,RE15,5,5,5,5,5,157,MT:PosRationales,195,female,40 to 44 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+331,RE16,4,4,4,3,4,270,CF:PosRationales,246,female,40 to 44 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+331,RE18,2,2,2,2,2,24,MT+CF:PosRationales,220,female,40 to 44 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+331,RE19,4,4,4,4,4,319,MT+CF:PosRationales,225,female,40 to 44 years old,United Kingdom,A-levels/International Baccalaureate/Higher education entrance qualification,Employee
+332,RE10,4,1,4,4,4,164,MT+CF:PosRationales,189,female,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+332,RE12,4,5,5,5,5,71,MT+CF:RevRationales,539,female,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+332,RE13,4,2,4,4,5,11,MT+CF:RevRationales,304,female,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+332,RE14,3,1,4,4,4,109,MT:PosRationales,257,female,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+332,RE15,2,1,4,4,4,370,MT:PosRationales,109,female,30 to 34 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+333,RE08,4,5,5,4,5,72,MT:PosRationales,192,male,30 to 34 years old,United States,Other degree,Self-employed
+333,RE09,4,3,4,4,5,237,CF:PosRationales,172,male,30 to 34 years old,United States,Other degree,Self-employed
+333,RE12,4,5,4,5,4,171,MT+CF:RevRationales,493,male,30 to 34 years old,United States,Other degree,Self-employed
+333,RE15,4,4,3,4,5,118,MT:PosRationales,138,male,30 to 34 years old,United States,Other degree,Self-employed
+333,RE17,4,3,3,3,4,10,CF:PosRationales,193,male,30 to 34 years old,United States,Other degree,Self-employed
+333,RE18,4,3,4,5,5,125,MT+CF:PosRationales,157,male,30 to 34 years old,United States,Other degree,Self-employed
+333,RE19,4,3,3,4,4,109,MT+CF:PosRationales,220,male,30 to 34 years old,United States,Other degree,Self-employed
+334,RE08,5,5,5,5,5,338,MT:PosRationales,263,male,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+334,RE09,5,5,5,5,5,71,CF:PosRationales,305,male,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+334,RE10,5,5,5,5,5,157,MT+CF:PosRationales,209,male,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+334,RE11,5,4,5,4,5,112,MT+CF:RevRationales,371,male,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+334,RE12,5,5,5,5,5,12,MT+CF:RevRationales,260,male,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+334,RE13,5,5,5,5,5,343,MT+CF:RevRationales,596,male,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+334,RE14,5,5,5,5,5,301,MT:PosRationales,209,male,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+334,RE15,5,5,5,5,5,258,MT:PosRationales,220,male,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+334,RE16,5,5,5,5,5,46,CF:PosRationales,278,male,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+334,RE17,5,5,5,5,5,212,CF:PosRationales,267,male,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+334,RE18,5,5,5,5,5,9,MT+CF:PosRationales,248,male,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+334,RE19,5,5,5,5,5,233,MT+CF:PosRationales,260,male,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+335,RE11,2,3,3,4,2,245,MT+CF:RevRationales,238,male,20 to 24 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+335,RE13,3,3,4,3,3,67,MT+CF:RevRationales,495,male,20 to 24 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+335,RE17,3,3,2,4,3,194,CF:PosRationales,185,male,20 to 24 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+335,RE19,5,5,3,3,4,175,MT+CF:PosRationales,437,male,20 to 24 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+336,RE08,5,5,5,2,5,56,MT:PosRationales,209,male,40 to 44 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Employee
+336,RE09,4,5,5,4,5,341,CF:PosRationales,145,male,40 to 44 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Employee
+336,RE10,3,4,5,2,5,132,MT+CF:PosRationales,158,male,40 to 44 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Employee
+336,RE11,4,5,5,3,5,211,MT+CF:RevRationales,328,male,40 to 44 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Employee
+336,RE12,5,5,5,5,5,65,MT+CF:RevRationales,357,male,40 to 44 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Employee
+336,RE13,5,5,5,5,5,227,MT+CF:RevRationales,350,male,40 to 44 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Employee
+336,RE14,5,5,5,4,5,143,MT:PosRationales,275,male,40 to 44 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Employee
+336,RE15,5,5,5,2,5,374,MT:PosRationales,236,male,40 to 44 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Employee
+336,RE16,5,5,5,3,5,265,CF:PosRationales,132,male,40 to 44 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Employee
+336,RE18,5,5,5,5,5,330,MT+CF:PosRationales,172,male,40 to 44 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Employee
+336,RE19,3,5,5,2,5,55,MT+CF:PosRationales,111,male,40 to 44 years old,United Kingdom,"Vocational baccalaureate diploma, vocational secondary certification",Employee
+337,RE08,3,2,2,3,4,298,MT:PosRationales,176,male,45 to 49 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+337,RE09,5,5,5,5,4,95,CF:PosRationales,276,male,45 to 49 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+337,RE11,4,3,4,4,5,129,MT+CF:RevRationales,389,male,45 to 49 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+337,RE13,4,4,1,3,4,291,MT+CF:RevRationales,591,male,45 to 49 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+337,RE14,4,2,4,4,5,201,MT:PosRationales,191,male,45 to 49 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+337,RE15,3,2,2,2,4,350,MT:PosRationales,288,male,45 to 49 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+337,RE16,2,2,1,2,2,155,CF:PosRationales,225,male,45 to 49 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+337,RE17,5,4,5,5,5,185,CF:PosRationales,289,male,45 to 49 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+337,RE18,3,2,2,2,4,81,MT+CF:PosRationales,248,male,45 to 49 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+337,RE19,3,2,2,2,3,369,MT+CF:PosRationales,329,male,45 to 49 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Employee
+338,RE08,4,4,4,4,4,101,MT:PosRationales,178,male,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Self-employed
+338,RE09,4,4,4,3,4,320,CF:PosRationales,266,male,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Self-employed
+338,RE10,4,4,4,4,4,375,MT+CF:PosRationales,136,male,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Self-employed
+338,RE11,5,5,5,4,4,304,MT+CF:RevRationales,301,male,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Self-employed
+338,RE12,4,5,5,4,5,3,MT+CF:RevRationales,321,male,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Self-employed
+338,RE13,5,5,4,5,5,8,MT+CF:RevRationales,302,male,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Self-employed
+338,RE14,4,4,4,4,4,47,MT:PosRationales,162,male,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Self-employed
+338,RE15,4,4,4,4,4,199,MT:PosRationales,237,male,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Self-employed
+338,RE16,4,4,4,4,4,327,CF:PosRationales,295,male,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Self-employed
+338,RE18,5,4,4,4,4,30,MT+CF:PosRationales,293,male,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Self-employed
+338,RE19,4,5,4,4,4,377,MT+CF:PosRationales,175,male,40 to 44 years old,United Kingdom,Vocational university/university of applied sciences/university degree,Self-employed
+339,RE09,4,5,5,4,4,223,CF:PosRationales,257,diverse,30 to 34 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Self-employed
+339,RE10,2,5,4,2,4,252,MT+CF:PosRationales,302,diverse,30 to 34 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Self-employed
+339,RE11,4,4,4,4,3,76,MT+CF:RevRationales,278,diverse,30 to 34 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Self-employed
+339,RE12,4,5,4,4,4,294,MT+CF:RevRationales,301,diverse,30 to 34 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Self-employed
+339,RE14,2,4,4,4,4,348,MT:PosRationales,288,diverse,30 to 34 years old,United States,"High school diploma/Intermediate/General Certificate of Secondary Education, secondary school-leaving certificate or equivalent",Self-employed
