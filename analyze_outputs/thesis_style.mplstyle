@@ -1,0 +1,46 @@
+# mplstyle_file.mplstyle
+
+# Figure settings
+figure.figsize: 8, 4
+figure.dpi: 300
+figure.facecolor: None
+# figure.format : retina
+
+# Axes settings
+axes.axisbelow: True
+axes.spines.top: False
+axes.spines.left: False
+axes.spines.right: False
+axes.facecolor: fafafa
+
+# Tick settings
+xtick.labelsize: 12
+ytick.labelsize: 12
+
+# Legend settings
+legend.loc: center left
+# legend.title_fontweight: bold
+# legend.fontweight: bold
+legend.handlelength: 1.5
+legend.borderaxespad: 0.7
+legend.columnspacing: 1.5
+
+# Line settings
+lines.linewidth: 1.5
+lines.markeredgecolor: black
+lines.markersize: 12
+
+# Font settings
+# font.family: monospace
+
+# Color settings
+grid.color: black
+grid.alpha: 1
+grid.linestyle: (1, 5)
+# grid.dashes: (1, 5)
+
+# font.sans-serif: Overpass, Helvetica, Helvetica Neue, Arial, Liberation Sans, DejaVu Sans, Bitstream Vera Sans, sans-serif
+axes.prop_cycle: cycler('color', ['9b1b30', '009473', '112e51', 'gold'])
+
+
+axes.labelweight: bold

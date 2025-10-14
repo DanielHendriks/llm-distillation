@@ -1,0 +1,41 @@
+\subsection{Analysis of Critique-Revision Prompting Effects}
+
+To understand why critique-revision prompting improved explainability without enhancing performance, we conducted a detailed analysis comparing unrevised and revised rationales across multiple dimensions. Our investigation examined 1,221 examples from the training data, focusing on linguistic, semantic, and content-based differences.
+
+\subsubsection{Methodology}
+
+We analyzed rationales along four key dimensions:
+\begin{enumerate}
+    \item \textbf{Distractor mention frequency}: Counting explicit references to incorrect answer choices
+    \item \textbf{Semantic similarity}: Using sentence embeddings (all-MiniLM-L6-v2) to measure cosine similarity between rationales and answer choices
+    \item \textbf{Linguistic complexity}: Measuring word count, sentence count, and negation usage
+    \item \textbf{Performance impact}: Examining cases where student model predictions changed between unrevised and revised training
+\end{enumerate}
+
+\subsubsection{Key Findings}
+
+Our analysis reveals several critical insights into the nature of revised rationales:
+
+\textbf{Increased Distractor Engagement}: Revised rationales mention incorrect answer choices significantly more frequently than unrevised ones (1.66 vs 0.12 mentions per rationale on average). This represents a 13.8× increase in explicit engagement with distractors, suggesting that the critique-revision process encourages more comprehensive consideration of all options.
+
+\textbf{Enhanced Semantic Complexity}: Revised rationales show higher semantic similarity to both incorrect choices (+0.048) and correct answers (+0.024) compared to unrevised versions. This indicates that revisions create more nuanced explanations that acknowledge the relationships between different answer options rather than simply dismissing alternatives.
+
+\textbf{Substantial Length Increase}: Revised rationales are 2.6× longer on average (113 vs 44 words) with 2.7× more sentences (4.6 vs 1.7) and 13× more negations (1.33 vs 0.10). This demonstrates that the revision process fundamentally transforms explanations from concise justifications to comprehensive analyses.
+
+\textbf{Mixed Performance Effects}: Among cases where student predictions changed between training conditions, we observed that revisions led to both improvements and degradations. The slight overall performance decline suggests that increased complexity may introduce noise that confuses the student model during training.
+
+\subsubsection{Implications and Future Directions}
+
+These findings suggest that critique-revision prompting creates explanations that are more thorough and educationally valuable but potentially suboptimal for knowledge distillation. The increased mention of distractors and semantic complexity, while beneficial for human understanding, may create training signals that are too nuanced for effective pattern learning in smaller models.
+
+\textbf{Recommendations for improving critique-revision prompting}:
+\begin{enumerate}
+    \item \textbf{Selective revision}: Apply critique-revision only to initially incorrect or low-confidence predictions to avoid degrading high-quality explanations
+    \item \textbf{Length constraints}: Implement word or sentence limits to prevent excessive verbosity while maintaining analytical depth
+    \item \textbf{Focus guidance}: Instruct the revision process to minimize distractor mentions unless directly relevant to explaining why they are incorrect
+    \item \textbf{Two-stage training}: Use revised rationales for initial broad understanding, then fine-tune with concise, unrevised explanations for final performance optimization
+\end{enumerate}
+
+\subsection{Response to Reviewer Comment C 1.1}
+
+We thank the reviewer for this important suggestion. As requested, we have conducted a comprehensive analysis investigating why critique-revision prompting enhanced explainability without improving performance (see Section X.X). Our analysis examined 1,221 training examples across linguistic, semantic, and content dimensions, revealing that revised rationales are significantly more comprehensive (2.6× longer, 13.8× more distractor mentions) and semantically complex. While these characteristics make explanations more educationally valuable, they appear to create training signals that are too nuanced for effective knowledge distillation in smaller models. The revision process transforms concise justifications into detailed analyses that, while beneficial for human understanding, may introduce noise during student model training. Based on these findings, we propose several concrete improvements to critique-revision prompting, including selective revision, length constraints, and two-stage training approaches that could better balance explainability with performance.

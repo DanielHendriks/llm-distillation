@@ -174,3 +174,5 @@ data %>%
 vda.completeness <- multiVDA(Completeness ~ model, data = data, digits = 3, statistic = "VDA")
 
 vda.contrastiveness <- multiVDA(Contrastiveness ~ model, data = data, digits = 3, statistic = "VDA")
+
+
