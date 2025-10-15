@@ -63,7 +63,8 @@ export HF_TOKEN=<your_token>
 
 Teacher outputs are stored under `llm_outputs/`. Each generator script shards outputs to ease recovery from interruptions. To run script, e.g. to generate explanations with the teacher, run the following:
 
-```python ../src/generate_rationales.py \
+```bash
+python ../src/generate_rationales.py \
     --checkpoint Qwen/Qwen3-30B-A3B-Instruct-2507 \
     --output_name cqa-qwen-train \
     --dataset cqa \
