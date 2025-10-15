@@ -1,0 +1,71 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "question": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "choices": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "answer": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "abstractive_explanation": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "extractive_explanation": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "few_shot_positive_prompt": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "few_shot_negative_prompt": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "few_shot_positive_rationale": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "few_shot_negative_rationale": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "few_shot_critique_prompt": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "few_shot_revision_instruction": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "few_shot_critique": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "few_shot_revision_prompt": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "few_shot_revision": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}

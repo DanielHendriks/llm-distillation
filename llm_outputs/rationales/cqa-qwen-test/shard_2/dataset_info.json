@@ -1,0 +1,79 @@
+{
+  "builder_name": "json",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "json",
+  "dataset_size": 3032674,
+  "description": "",
+  "download_checksums": {
+    "/pfs/data6/home/ka/ka_ksri/ka_cy4094/thesis/shell/../datasets/cqa/train.json": {
+      "num_bytes": 3443547,
+      "checksum": null
+    },
+    "/pfs/data6/home/ka/ka_ksri/ka_cy4094/thesis/shell/../datasets/cqa/validation.json": {
+      "num_bytes": 422767,
+      "checksum": null
+    }
+  },
+  "download_size": 3866314,
+  "features": {
+    "id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "question": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "choices": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "answer": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "abstractive_explanation": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "extractive_explanation": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "few_shot_positive_prompt": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "few_shot_positive_rationale": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 6898988,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 2702777,
+      "num_examples": 9741,
+      "dataset_name": "json"
+    },
+    "validation": {
+      "name": "validation",
+      "num_bytes": 329897,
+      "num_examples": 1221,
+      "dataset_name": "json"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

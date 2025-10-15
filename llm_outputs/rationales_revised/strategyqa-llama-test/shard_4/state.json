@@ -1,0 +1,27 @@
+{
+  "_data_files": [
+    {
+      "filename": "data-00000-of-00001.arrow"
+    }
+  ],
+  "_fingerprint": "8de42ec2389a66f2",
+  "_format_columns": [
+    "answer",
+    "description",
+    "facts",
+    "few_shot_critique",
+    "few_shot_critique_prompt",
+    "few_shot_positive_prompt",
+    "few_shot_positive_rationale",
+    "few_shot_revision",
+    "few_shot_revision_instruction",
+    "few_shot_revision_prompt",
+    "qid",
+    "question",
+    "term"
+  ],
+  "_format_kwargs": {},
+  "_format_type": null,
+  "_output_all_columns": false,
+  "_split": null
+}

@@ -1,0 +1,22 @@
+{
+  "_data_files": [
+    {
+      "filename": "data-00000-of-00001.arrow"
+    }
+  ],
+  "_fingerprint": "11eaaa8da7889ed9",
+  "_format_columns": [
+    "few_shot_critique",
+    "few_shot_critique_prompt",
+    "few_shot_positive_prompt",
+    "few_shot_positive_rationale",
+    "few_shot_revision_instruction",
+    "hypothesis",
+    "label",
+    "premise"
+  ],
+  "_format_kwargs": {},
+  "_format_type": null,
+  "_output_all_columns": false,
+  "_split": null
+}

@@ -1,0 +1,76 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "strategy_qa",
+  "dataset_size": 750693,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/ChilleD/StrategyQA@705562638fe1d8ca6bb98c66fc8f94d45fda8c83/data/train-00000-of-00001-506370352f622815.parquet": {
+      "num_bytes": 369335,
+      "checksum": null
+    },
+    "hf://datasets/ChilleD/StrategyQA@705562638fe1d8ca6bb98c66fc8f94d45fda8c83/data/test-00000-of-00001-bae602f3ee37f4ca.parquet": {
+      "num_bytes": 160771,
+      "checksum": null
+    }
+  },
+  "download_size": 530106,
+  "features": {
+    "qid": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "term": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "description": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "question": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "answer": {
+      "dtype": "bool",
+      "_type": "Value"
+    },
+    "facts": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "few_shot_positive_prompt": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "few_shot_positive_rationale": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 1280799,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 524456,
+      "num_examples": 1603,
+      "dataset_name": "strategy_qa"
+    },
+    "test": {
+      "name": "test",
+      "num_bytes": 226237,
+      "num_examples": 687,
+      "dataset_name": "strategy_qa"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

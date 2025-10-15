@@ -1,0 +1,87 @@
+{
+  "citation": "@inproceedings{rajani2019explain,\n     title = {Explain Yourself! Leveraging Language models for Commonsense Reasoning},\n    author = {Rajani, Nazneen Fatema  and\n      McCann, Bryan  and\n      Xiong, Caiming  and\n      Socher, Richard}\n      year={2019}\n    booktitle = {Proceedings of the 2019 Conference of the Association for Computational Linguistics (ACL2019)}\n    url ={https://arxiv.org/abs/1906.02361}\n}",
+  "description": "Common Sense Explanations (CoS-E) allows for training language models to\nautomatically generate explanations that can be used during training and\ninference in a novel Commonsense Auto-Generated Explanation (CAGE) framework.",
+  "features": {
+    "id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "question": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "choices": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "answer": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "abstractive_explanation": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "extractive_explanation": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "few_shot_positive_prompt": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "few_shot_negative_prompt": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "zero_shot_positive_prompt": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "zero_shot_negative_prompt": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "few_shot_positive_rationale": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "few_shot_negative_rationale": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "zero_shot_positive_rationale": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "zero_shot_negative_rationale": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "few_shot_critique_prompt": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "few_shot_revision_instruction": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "few_shot_critique": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "few_shot_revision_prompt": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "few_shot_revision": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "https://github.com/salesforce/cos-e",
+  "license": ""
+}

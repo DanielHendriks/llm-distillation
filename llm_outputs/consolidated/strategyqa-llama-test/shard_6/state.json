@@ -1,0 +1,24 @@
+{
+  "_data_files": [
+    {
+      "filename": "data-00000-of-00001.arrow"
+    }
+  ],
+  "_fingerprint": "f0dab09003ee50c5",
+  "_format_columns": [
+    "answer",
+    "counterfactual_prompt_answer_1_rationale",
+    "counterfactual_prompt_answer_2_rationale",
+    "description",
+    "facts",
+    "few_shot_positive_rationale",
+    "few_shot_revision",
+    "qid",
+    "question",
+    "term"
+  ],
+  "_format_kwargs": {},
+  "_format_type": null,
+  "_output_all_columns": false,
+  "_split": null
+}

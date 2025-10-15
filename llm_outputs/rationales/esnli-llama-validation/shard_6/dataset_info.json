@@ -1,0 +1,78 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "plain_text",
+  "dataset_name": "snli",
+  "dataset_size": 68477595,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/stanfordnlp/snli@cdb5c3d5eed6ead6e5a341c8e56e669bb666725b/plain_text/test-00000-of-00001.parquet": {
+      "num_bytes": 411531,
+      "checksum": null
+    },
+    "hf://datasets/stanfordnlp/snli@cdb5c3d5eed6ead6e5a341c8e56e669bb666725b/plain_text/validation-00000-of-00001.parquet": {
+      "num_bytes": 413157,
+      "checksum": null
+    },
+    "hf://datasets/stanfordnlp/snli@cdb5c3d5eed6ead6e5a341c8e56e669bb666725b/plain_text/train-00000-of-00001.parquet": {
+      "num_bytes": 19614612,
+      "checksum": null
+    }
+  },
+  "download_size": 20439300,
+  "features": {
+    "premise": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "hypothesis": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "label": {
+      "names": [
+        "entailment",
+        "neutral",
+        "contradiction"
+      ],
+      "_type": "ClassLabel"
+    },
+    "few_shot_positive_prompt": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "few_shot_positive_rationale": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 88916895,
+  "splits": {
+    "test": {
+      "name": "test",
+      "num_bytes": 1260154,
+      "num_examples": 10000,
+      "dataset_name": "snli"
+    },
+    "validation": {
+      "name": "validation",
+      "num_bytes": 1264286,
+      "num_examples": 10000,
+      "dataset_name": "snli"
+    },
+    "train": {
+      "name": "train",
+      "num_bytes": 65953155,
+      "num_examples": 550152,
+      "dataset_name": "snli"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
